@@ -11,20 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electronic Science and Technology, Huazhong University of Science and Technology, China, 2012
+* B.Eng. in Electronic Science and Technology, Huazhong University of Science and Technology, China, 2012
 * Ph.D in Information Engineering, The Chinese University of Hong Kong, 2017
 
 Work experience
 ======
-* Summer 2015-now: Research Professional
-  * Universite Laval
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* March 2017 - now: Postdoctoral Fellow & Research Professional, Universit&eacute; Laval
   
 Skills
 ======
@@ -43,9 +35,7 @@ Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
   
 Teaching
 ======
@@ -53,6 +43,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and membership
 ======
-* Currently signed in to 43 different slack teams
+
