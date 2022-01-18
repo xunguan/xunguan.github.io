@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 I'll be joining Tsinghua Berkeley Shenzhen Institute (TBSI), Tsinghua Shenzhen International Graduate School, Tsinghua University, in Shenzhen, as an assistant professor, in May 2022.
-Research Professional\
+Research Scientist\
 Optical Communications Laboratory\
-Centre d'Optique, Photonique et Laser\
+Centre of Optics, Photonics and Laser\
 Universit&eacute; Laval\
 Queb&eacute;c, Canada
 
