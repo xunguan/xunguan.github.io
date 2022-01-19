@@ -16,7 +16,8 @@ Education
 
 Work experience
 ======
-* March 2017 - now: Postdoctoral Fellow & Research Professional, Universit&eacute; Laval
+* March 2017 - May 2022: Postdoctoral Fellow & Research Scientist, Universit&eacute; Laval
+* May 2022 - : Assistant Professor, Tsinghua Shenzhen International Graduate School, Tsinghua University
 
 Publications
 ======
