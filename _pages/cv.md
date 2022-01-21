@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+A full version of CV can be found at [here](https://docs.google.com/document/d/146sRo-iF6s44EmsslPvsUO9qtpev-_mKAoGmBwWbYBg/edit?usp=sharing)
+
 Education
 ======
 * B.Eng. in Electronic Science and Technology, Huazhong University of Science and Technology, China, 2012
