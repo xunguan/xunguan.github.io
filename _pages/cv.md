@@ -21,7 +21,7 @@ Work experience
 * March 2017 - May 2022: Postdoctoral Fellow & Research Scientist, Universit&eacute; Laval
 * May 2022 - : Assistant Professor, Tsinghua Shenzhen International Graduate School, Tsinghua University
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -38,5 +38,5 @@ Teaching
   {% endfor %}</ul>
   
 Service and membership
-======
+====== -->
 
