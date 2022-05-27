@@ -7,9 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am now an assistant professor at [Tsinghua Berkeley Shenzhen Institute (TBSI)](https://www.tbsi.edu.cn/), [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/).
 
-I currently work as a Research Scientist in [Optical Communications Laboratory](https://ocl.fsg.ulaval.ca/) at [Centre of Optics, Photonics and Laser (COPL)](https://www.copl.ulaval.ca/accueil/) in [Universit&eacute; Laval](https://www.ulaval.ca/), Quebec City, Canada.
+I mainly work in **Intelligent Photonics, Electronics and Information System**. I use photonic and electronic techniques to solve problems in telecommunication, sensing, informative technology and others.
 
-I will join [Tsinghua Berkeley Shenzhen Institute (TBSI)](https://www.tbsi.edu.cn/), [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), as an assistant professor, in May 2022.
+Prior to that, I worked as a Research Scientist in [Optical Communications Laboratory](https://ocl.fsg.ulaval.ca/) at [Centre of Optics, Photonics and Laser (COPL)](https://www.copl.ulaval.ca/accueil/) in [Universit&eacute; Laval](https://www.ulaval.ca/), Quebec City, Canada.
+
+
 
 
