@@ -14,7 +14,7 @@ I mainly work in **Intelligent Photonics, Electronics and Information System (iP
 
 Prior to that, I was a Research Scientist in [Optical Communications Laboratory](https://ocl.fsg.ulaval.ca/) at [Centre of Optics, Photonics and Laser (COPL)](https://www.copl.ulaval.ca/accueil/) in [Universit&eacute; Laval](https://www.ulaval.ca/), Quebec City, Canada, where I still hold adjunct professorship.
 
-For details about my work, check my CV [here](https://docs.google.com/document/d/146sRo-iF6s44EmsslPvsUO9qtpev-_mKAoGmBwWbYBg/edit?usp=sharing).
+For a more complete introduction, check my CV [here](https://docs.google.com/document/d/146sRo-iF6s44EmsslPvsUO9qtpev-_mKAoGmBwWbYBg/edit?usp=sharing).
 
 # Openings
 ## PhD & MS recruitment
