@@ -14,6 +14,8 @@ I mainly work in **Intelligent Photonics, Electronics and Information System (iP
 
 Prior to that, I was a Research Scientist in [Optical Communications Laboratory](https://ocl.fsg.ulaval.ca/) at [Centre of Optics, Photonics and Laser (COPL)](https://www.copl.ulaval.ca/accueil/) in [Universit&eacute; Laval](https://www.ulaval.ca/), Quebec City, Canada, where I still hold adjunct professorship.
 
+For details about my work, check my CV [here](https://docs.google.com/document/d/146sRo-iF6s44EmsslPvsUO9qtpev-_mKAoGmBwWbYBg/edit?usp=sharing).
+
 # Openings
 ## PhD & MS recruitment
 Please check [this link](https://www.tbsi.edu.cn/2022/0530/c3680a54039/page.htm) for our graduate students admission summer camp to be held this July. I'm recruiting outstanding MS and PhD students starting in Sep. 2023; my major working area is Intelligent Photonics, Electronics and Information System. Interested applicants are encouraged to apply for the summer camp or contact me directly; we also appreciate professors to circulate this post to possible candidates. 
