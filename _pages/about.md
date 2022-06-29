@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xun GUAN"
+#title: "Xun GUAN"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
