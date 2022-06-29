@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # News
-My coauthored paper in collaboration with [Prof. Leslie Ann Rusch](https://ocl.fsg.ulaval.ca/team/leslie-rusch), <em>'Expanded Modal Capacity for OAM with Standard 2×2 MIMO'</em>, has been accepted to [ECOC2022](https://www.ecoc2022.org/).
+A paper in collaboration with [Prof. Leslie Ann Rusch](https://ocl.fsg.ulaval.ca/team/leslie-rusch) of Universit&eacute; Laval, <em>'Expanded Modal Capacity for OAM with Standard 2×2 MIMO'</em>, has been accepted to [ECOC2022](https://www.ecoc2022.org/).
 
 # Brief Intro
 I am now an assistant professor at [Tsinghua-Berkeley Shenzhen Institute (TBSI)](https://www.tbsi.edu.cn/), [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/).
