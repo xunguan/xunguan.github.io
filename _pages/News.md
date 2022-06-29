@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-- 24/06/2022
+- 28/06/2022
 
 I will serve as TPC member in [ONDM2023](https://ondm2023.inescc.pt/).
 
