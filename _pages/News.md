@@ -19,7 +19,7 @@ A paper in collaboration with [Prof. Leslie Ann Rusch](https://ocl.fsg.ulaval.ca
 
 - May/2022
 
-My paper entitled '*Experimental Demonstration of a Constellation Shaped via Deep Learning and Robust to Residual-Phase-Noise*' is presented at **CLEO2022**, here is the [paper](https://ocl.fsg.ulaval.ca/fileadmin/user_upload/CLEO2022_Leslie.pdf).
+My paper entitled '*Experimental Demonstration of a Constellation Shaped via Deep Learning and Robust to Residual-Phase-Noise*' is presented at **CLEO2022**. Here is the [paper](https://ocl.fsg.ulaval.ca/fileadmin/user_upload/CLEO2022_Leslie.pdf).
 
 <!-- Publications
 ======
