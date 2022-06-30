@@ -11,11 +11,11 @@ redirect_from:
 
 - 28 Jun. 2022
 
-I will serve as a TPC member in **[ONDM2023]**(https://ondm2023.inescc.pt/).
+I will serve as a TPC member in **[ONDM2023](https://ondm2023.inescc.pt/)**.
 
 - 24 Jun. 2022
 
-A paper in collaboration with [Prof. Leslie Ann Rusch](https://ocl.fsg.ulaval.ca/team/leslie-rusch) and group, of Universit&eacute; Laval, '*Expanded Modal Capacity for OAM with Standard 2×2 MIMO*', has been accepted to **[ECOC2022]**(https://www.ecoc2022.org/).
+A paper in collaboration with [Prof. Leslie Ann Rusch](https://ocl.fsg.ulaval.ca/team/leslie-rusch) and group, of Universit&eacute; Laval, '*Expanded Modal Capacity for OAM with Standard 2×2 MIMO*', has been accepted to **[ECOC2022](https://www.ecoc2022.org/)**.
 
 - May 2022
 
