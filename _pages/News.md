@@ -11,7 +11,7 @@ redirect_from:
 
 - 28 Jun. 2022
 
-I will serve as a TPC member in **[ONDM2023](https://ondm2023.inescc.pt/)**, held between 22-25 May 2023 in Coimbra, Portugal.
+I will serve as a TPC member in [ONDM2023](https://ondm2023.inescc.pt/), held between 22-25 May 2023 in Coimbra, Portugal.
 
 - 24 Jun. 2022
 
