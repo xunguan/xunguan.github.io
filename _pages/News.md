@@ -9,6 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+- 20 Aug. 2022
+
+Our paper entitled 'Optimizing Geometric Constellations for Phase Noise Channels Using Deep Learning' by Omir, me, Ming and Leslie has been accepted as an oral presentation in IEEE IPC this November in Vancouver, Canada. Congratulations to all!
+
+- 5 Aug. 2022
+
+As a Co-PI I have successfully secured a municipal funding, led by Prof. Min Ye of TBSI. 
+
 - 28 Jun. 2022
 
 I will serve as a TPC member in **[ONDM2023](https://ondm2023.inescc.pt/)**, held in Coimbra, Portugal.
