@@ -15,9 +15,9 @@ I am to give an invited talk in [PHOTOPTO2023](https://www.thescimeets.org/photo
 
 - 20 Aug. 2022
 
-Our paper entitled 'Optimizing Geometric Constellations for Phase Noise Channels Using Deep Learning' by Omir, me, Ming and Leslie has been accepted as an oral presentation in IEEE IPC Nov. 2022 in Vancouver, Canada. Congratulations to all!
+Our paper entitled '*Optimizing Geometric Constellations for Phase Noise Channels Using Deep Learning*' by Omir, me, Ming and Leslie has been accepted as an oral presentation in IEEE IPC Nov. 2022 in Vancouver, Canada. Congratulations to all!
 
-Our paper entitled 'Equalizer Complexity in OAM Transmission Systems using a Standard PDM Coherent Receiver' by Mai, Satyendra, Ariane, Nathalie, me, Lixian, Sophie and Leslie has been accepted as an oral presentation in IEEE IPC Nov. 2022 in Vancouver, Canada. Congratulations to all!
+Our paper entitled '*Equalizer Complexity in OAM Transmission Systems using a Standard PDM Coherent Receiver*' by Mai, Satyendra, Ariane, Nathalie, me, Lixian, Sophie and Leslie has been accepted as an oral presentation in IEEE IPC Nov. 2022 in Vancouver, Canada. Congratulations to all!
 
 - 5 Aug. 2022
 
