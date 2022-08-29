@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 - 29 Aug. 2022
+
 I am to give an invited talk in [PHOTOPTO2023](https://www.thescimeets.org/photopto2023/) in Paris (tentatively, dependent on travel restriction), and an invited talk in [OGC2022](http://www.ipsogc.org/) in Shenzhen (luckily no travel issue).
 
 - 20 Aug. 2022
