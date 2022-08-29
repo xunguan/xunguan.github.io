@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+- 29 Aug. 2022
+I have been invited to give an invited talk in [PHOTOPTO2023](https://www.thescimeets.org/photopto2023/) in Paris (tentatively, dependent on travel restriction), and an invited talk in [OGC2022](http://www.ipsogc.org/) in Shenzhen (luckily no travel issue).
+
 - 20 Aug. 2022
 
 Our paper entitled 'Optimizing Geometric Constellations for Phase Noise Channels Using Deep Learning' by Omir, me, Ming and Leslie has been accepted as an oral presentation in IEEE IPC Nov. 2022 in Vancouver, Canada. Congratulations to all!
