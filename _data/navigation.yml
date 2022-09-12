@@ -16,8 +16,6 @@ main:
   #   url: /year-archive/
 
 
-  - title: "News"
-    url: /News/
 
   - title: "CV"
     url: /cv/
