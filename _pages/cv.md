@@ -13,7 +13,7 @@ A full version of CV can be found [here](https://docs.google.com/document/d/146s
 
 Education
 ======
-* B.Eng. in Electronic Science and Technology, Huazhong University of Science and Technology, China, 2012
+* B.Eng in Electronic Science and Technology, Huazhong University of Science and Technology, China, 2012
 * Ph.D in Information Engineering, The Chinese University of Hong Kong, 2017
 
 Work experience
