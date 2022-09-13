@@ -11,7 +11,7 @@ redirect_from:
 
 - 13 Sep. 2022
 
-We've got reinforcement by our new members, **马远征 (Yuanzheng Ma)** and **王欣悦 (Xinyue Wang)**. Welcome to **DILIGHT**!
+We've got reinforcement from our new crew members, **马远征 (Yuanzheng Ma)** and **王欣悦 (Xinyue Wang)**. Welcome to **DILIGHT**!
 
 - 12 Sep. 2022
 
