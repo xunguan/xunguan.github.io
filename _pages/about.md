@@ -9,6 +9,10 @@ redirect_from:
 ---
 # News since joining TBSI/SIGS
 
+- 13 Nov. 2022
+
+We've got reinforcement by our new members, 马远征 (Yuanzheng Ma) and 王欣悦 (Xinyue Wang). Welcome to **DILIGHT**!
+
 - 12 Nov. 2022
 
 I will serve as a guest editor of a special issue of "**Optical Network Design and Optimization**" of Photonics, together of Prof. Qiu Yang. Check [**link**](https://www.mdpi.com/journal/photonics/special_issues/DN426N7VV4) or [**flyer**](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155021186_link_cuhk_edu_hk/Ed446pRdXutNr3z1fpSylmUBKUmkSB8MV8cnwyd6tTbwfA?e=bf3UQN) for more details.

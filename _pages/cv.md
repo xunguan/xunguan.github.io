@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-# CV
+Our lab is named as **DILIGHT(数据通信与光电智能)**.
+
 A full version of CV can be found [here](https://docs.google.com/document/d/146sRo-iF6s44EmsslPvsUO9qtpev-_mKAoGmBwWbYBg/edit?usp=sharing)
 
 Education
