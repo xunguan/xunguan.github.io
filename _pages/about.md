@@ -7,6 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+- 7 Oct. 2022
+
+A paper by Di, me and [Prof. Calvin Chan](https://lightweb.ie.cuhk.edu.hk/) entitled "**An Efficient Ternary Search for Dynamic Brillouin Frequency Shift in BOTDA**" has been accepted to [**ACP 2022**](http://www.acp2022.org/). Congratulations to all!
+
 - 13 Sep. 2022
 
 We've got reinforcement from our new crew members, **马远征 (Yuanzheng Ma)** and **王欣悦 (Xinyue Wang)**. Welcome to **DILIGHT**!
