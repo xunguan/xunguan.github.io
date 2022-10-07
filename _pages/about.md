@@ -9,7 +9,7 @@ redirect_from:
 ---
 - 7 Oct. 2022
 
-A paper by Di, me and [Prof. Calvin Chan](https://lightweb.ie.cuhk.edu.hk/) entitled "**An Efficient Ternary Search for Dynamic Brillouin Frequency Shift in BOTDA**" has been accepted to [**ACP 2022**](http://www.acp2022.org/). Congratulations to all!
+A paper by Di, me and [Prof. Calvin Chan](https://lightweb.ie.cuhk.edu.hk/) entitled "**An Efficient Ternary Search for Dynamic Brillouin Frequency Shift in BOTDA**" has been accepted to [**ACP 2022**](http://www.acp2022.org/). 
 
 - 13 Sep. 2022
 
@@ -30,9 +30,9 @@ I am to deliver an invited talk in [**OGC 2022**](http://www.ipsogc.org/) in She
 
 - 20 Aug. 2022
 
-Our paper entitled '**Optimizing Geometric Constellations for Phase Noise Channels Using Deep Learning**' by Omir, me, Ming and Leslie has been accepted as an oral presentation in **IEEE IPC**, Nov. 2022 in Vancouver, Canada. Congratulations to all!
+Our paper entitled '**Optimizing Geometric Constellations for Phase Noise Channels Using Deep Learning**' by Omir, me, Ming and Leslie has been accepted as an oral presentation in **IEEE IPC**, Nov. 2022 in Vancouver, Canada. 
 
-Our paper entitled '**Equalizer Complexity in OAM Transmission Systems using a Standard PDM Coherent Receiver**' by Mai, Satyendra, Ariane, Nathalie, me, Lixian, Sophie and Leslie has been accepted as an oral presentation in **IEEE IPC**, Nov. 2022 in Vancouver, Canada. Congratulations to all!
+Our paper entitled '**Equalizer Complexity in OAM Transmission Systems using a Standard PDM Coherent Receiver**' by Mai, Satyendra, Ariane, Nathalie, me, Lixian, Sophie and Leslie has been accepted as an oral presentation in **IEEE IPC**, Nov. 2022 in Vancouver, Canada. 
 
 - 5 Aug. 2022
 
