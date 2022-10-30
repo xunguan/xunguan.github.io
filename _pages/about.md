@@ -10,7 +10,7 @@ redirect_from:
 
 - 30/10/2022
 
-An invited talk has been given today in [GoInc2022](https://www.koushare.com/topicIndex/i/GoInc2022) Track 3.
+An invited talk has been given in [GoInc2022](https://www.koushare.com/topicIndex/i/GoInc2022) Track 3.
 
 
 - 7/10/2022
