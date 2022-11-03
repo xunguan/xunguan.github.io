@@ -29,7 +29,7 @@ I mainly work in **D**ata Communication and **I**ntelligence in **Light**wave (*
 
 Prior to that, I was a Research Scientist in [Optical Communications Laboratory](https://ocl.fsg.ulaval.ca/) at [Centre of Optics, Photonics and Laser (COPL)](https://www.copl.ulaval.ca/accueil/) in [Universit&eacute; Laval](https://www.ulaval.ca/), Quebec City, Canada, where I still hold adjunct professorship. I co-supervise a Ph.D student with [*Prof. Leslie Rusch*](https://ocl.fsg.ulaval.ca/team/leslie-rusch), who is IEEE Fellow, Optica Fellow, and Canadian rsearch chair.
 
-I obtained my Ph.D degree in optical communication from Department of Information Engieering, The Chinese University of Hong Kong. I studied under the supervision of Prof. [Calvin Chan], an Optica Fellow.
+I obtained my Ph.D degree in optical communication from Department of Information Engieering, The Chinese University of Hong Kong. I studied under the supervision of Prof. [Calvin Chan](https://www.ie.cuhk.edu.hk/people/ckchan.shtml), an Optica Fellow.
 
 For a more complete introduction, check my [CV](https://docs.google.com/document/d/146sRo-iF6s44EmsslPvsUO9qtpev-_mKAoGmBwWbYBg/edit?usp=sharing).
 
