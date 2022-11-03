@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
+
+# News
+
 - 30/10/2022
 
 An invited talk has been given in [GoInc2022](https://www.koushare.com/topicIndex/i/GoInc2022) Track 3.
