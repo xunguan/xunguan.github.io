@@ -23,7 +23,7 @@ An invited talk has been given in [GoInc2022](https://www.koushare.com/topicInde
 
 - 7/10/2022
 
-A paper by Di, me and [Prof. Calvin Chan](https://lightweb.ie.cuhk.edu.hk/) entitled "**An Efficient Ternary Search for Dynamic Brillouin Frequency Shift in BOTDA**" has been accepted to [**ACP 2022**](http://www.acp2022.org/). 
+A paper by Di, me and [Prof. Calvin Chan](https://lightweb.ie.cuhk.edu.hk/) entitled "*An Efficient Ternary Search for Dynamic Brillouin Frequency Shift in BOTDA*" has been accepted to [**ACP 2022**](http://www.acp2022.org/). 
 
 - 13/09/2022
 
