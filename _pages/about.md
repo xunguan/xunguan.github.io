@@ -14,7 +14,7 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
 
 - 18/11/2022
 
-An invited review paper together with Zuhang, Faisal and Yuhan 'Advances in Visible Light Communication Technologies and Applications' has been accepted to MDPI Photonics.
+An invited review paper together with Zuhang, Faisal and Yuhan, '*Advances in Visible Light Communication Technologies and Applications,*' has been accepted to MDPI Photonics.
 
 - 17/11/2022
 
