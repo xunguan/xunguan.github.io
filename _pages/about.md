@@ -18,7 +18,7 @@ An invited review paper together with Zuhang, Faisal and Yuhan, '*Advances in Vi
 
 - 17/11/2022
 
-Our paper, '*Using Standard 2×2 MIMO to Increase Capacity of Spatial Multiplexing with OAM Modes,*' has been accepted to *Journal of Lightwave Technology*. 
+Our paper, ['*Using Standard 2×2 MIMO to Increase Capacity of Spatial Multiplexing with OAM Modes,*']{https://ieeexplore.ieee.org/document/9971714/} has been accepted to *Journal of Lightwave Technology*. 
 
 Orbital angular momentum (OAM) uses the mode mension in ring core fiber to carry more data volume within limited space. Because of the special mode orthogonality of OAM mode and low crosstalk, it uses very simple digital signal processing (DSP) for mode demultiplexing, unlike its counterpart by linear polarization (LP) mode. In this paper, only standard 2x2 MIMO, commonly used in the mainstream coherent receivers, are used. It is an economic way of upgrading our current fiber communication systems.
 
