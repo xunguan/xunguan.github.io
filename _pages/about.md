@@ -50,7 +50,7 @@ I am to give an invited talk in [*PHOTOPTO 2023*](https://www.thescimeets.org/ph
 
 - 28/08/2022
 
-I am to deliver an invited talk in [*OGC 2022*](http://www.ipsogc.org/) in Shenzhen (luckily no travel issue). *update on Sep. 7: the conference has been postponed due to pandemic issue*. *update on Dec. 11: the talk has been given as of today.*
+I am to deliver an invited talk in [*OGC 2022*](http://www.ipsogc.org/) in Shenzhen (luckily no travel issue). *Update on Sep. 7: the conference has been postponed due to pandemic issue*. *Update on Dec. 11: the talk has been given as of today.*
 
 - 20/08/2022
 
