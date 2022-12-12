@@ -12,6 +12,10 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
 
 # News
 
+- 12/12/2022
+
+One funding from Shenzhen municipal natural science funding (NSF) is successfully granted.
+
 - 18/11/2022
 
 An invited review paper together with Zuhang, Faisal and Yuhan, '*Advances in Visible Light Communication Technologies and Applications,*' has been accepted to MDPI Photonics. [*Check it out*.](https://www.mdpi.com/2304-6732/9/12/893/htm)
