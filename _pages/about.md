@@ -18,7 +18,7 @@ One funding from Shenzhen municipal natural science funding (NSF) is successfull
 
 - 18/11/2022
 
-An invited review paper together with Zuhang Geng, Prof. Faisal N. Khan and Prof. Yuhan Dong, ['*Advances in Visible Light Communication Technologies and Applications*'](https://www.mdpi.com/2304-6732/9/12/893/htm), has been accepted to MDPI Photonics.
+An invited review paper together with Zuhang Geng, Prof. Faisal N. Khan and Prof. Yuhan Dong, ['*Advances in Visible Light Communication Technologies and Applications,*'](https://www.mdpi.com/2304-6732/9/12/893/htm) has been accepted to MDPI Photonics.
 
 - 17/11/2022
 
