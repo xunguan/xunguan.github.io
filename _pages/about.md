@@ -37,7 +37,7 @@ A paper by Di, me and [Prof. Calvin Chan](https://lightweb.ie.cuhk.edu.hk/) enti
 
 - 13/09/2022
 
-We've got reinforcement by our new crew members, *马远征 (Yuanzheng Ma)* and *王欣悦 (Xinyue Wang)*. Welcome to **DILIGHT**!
+We've got reinforcement by our new members, *马远征 (Yuanzheng Ma)* and *王欣悦 (Xinyue Wang)*. Welcome to **DILIGHT**!
 
 - 12/09/2022
 
