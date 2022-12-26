@@ -13,6 +13,7 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
 # News
 
 - 26/12/2022
+
 As one of the two Core-PIs, I have secured an inter-disciplinary funding from Tsinghua SIGS, focusing on the miniaturition of sensors and monitoring of greenhouse gas, together with Prof. Longfei Yu of iEE (Institute of Environment and Ecology), Tsinghua SIGS. 
 
 - 12/12/2022
