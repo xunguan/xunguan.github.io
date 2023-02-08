@@ -36,12 +36,12 @@ Orbital angular momentum (OAM) uses the mode mension in ring core fiber to carry
 
 - 30/10/2022
 
-An invited talk has been given in [GoInc2022](https://www.koushare.com/topicIndex/i/GoInc2022) Track 3.
+An invited talk has been given in [*GoInc2022*](https://www.koushare.com/topicIndex/i/GoInc2022) Track 3.
 
 
 - 7/10/2022
 
-A paper by Di, me and [Prof. Calvin Chan](https://lightweb.ie.cuhk.edu.hk/) entitled "*An Efficient Ternary Search for Dynamic Brillouin Frequency Shift in BOTDA*" has been accepted to [ACP 2022*](http://www.acp2022.org/). 
+A paper by Di, me and [Prof. Calvin Chan](https://lightweb.ie.cuhk.edu.hk/) entitled "*An Efficient Ternary Search for Dynamic Brillouin Frequency Shift in BOTDA*" has been accepted to [*ACP 2022*](http://www.acp2022.org/). 
 
 - 13/09/2022
 
@@ -49,7 +49,7 @@ We've got reinforcement by our new members, *马远征 (Yuanzheng Ma)* and *王�
 
 - 12/09/2022
 
-I will serve as a guest editor of a special issue of "*Optical Network Design and Optimization*" of Photonics, together of Prof. Qiu Yang. Check [*link*](https://www.mdpi.com/journal/photonics/special_issues/DN426N7VV4) or [*flyer*](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155021186_link_cuhk_edu_hk/Ed446pRdXutNr3z1fpSylmUBKUmkSB8MV8cnwyd6tTbwfA?e=bf3UQN) for more details.
+I will serve as a guest editor of a special issue of "*Optical Network Design and Optimization*" of *MDPI Photonics*, together of Prof. Qiu Yang. Check [*link*](https://www.mdpi.com/journal/photonics/special_issues/DN426N7VV4) or [*flyer*](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155021186_link_cuhk_edu_hk/Ed446pRdXutNr3z1fpSylmUBKUmkSB8MV8cnwyd6tTbwfA?e=bf3UQN) for more details.
 
 
 - 29/08/2022
