@@ -12,6 +12,10 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
 
 # News
 
+- 08/02/2023
+
+An invited talk titled 'Silicon Photonics for High-Speed 5G and Optical Networks' will be delivered at ['*OFC2023*'](https://www.ofcconference.org/), session Tu2B, on March 7, 2023, together with Leslie.
+
 - 26/12/2022
 
 As one of the two Core-PIs, I have secured an inter-disciplinary funding from Tsinghua SIGS, focusing on the miniaturition of sensors and monitoring of greenhouse gas, together with Prof. Longfei Yu of iEE (Institute of Environment and Ecology), Tsinghua SIGS. 
