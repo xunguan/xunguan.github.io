@@ -14,7 +14,7 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
 
 - 08/02/2023
 
-An invited talk titled 'Silicon Photonics for High-Speed 5G and Optical Networks' will be delivered at ['*OFC2023*'](https://www.ofcconference.org/), session Tu2B, on March 7, 2023, together with Leslie.
+An invited talk titled 'Silicon Photonics for High-Speed 5G and Optical Networks' will be delivered at [*OFC2023*](https://www.ofcconference.org/), session Tu2B, on March 7, 2023, together with Leslie.
 
 - 26/12/2022
 
