@@ -14,7 +14,7 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
 
 - 09/02/2023
 
-I will serve the technical program committee of [*IEEE Photonics Conference (IPC2023)*](https://ieee-ipc.org/) in Orlando, USA during Nov. 12-16, 2023; and [*2023 International conference on Optical Communication and Optical Information Processing (OCOIP 2023)*](http://www.ocoip.com/) in Sanya, China.
+I will serve the technical program committee of [*IEEE Photonics Conference (IPC2023)*](https://ieee-ipc.org/) in Orlando, USA; and [*2023 International conference on Optical Communication and Optical Information Processing (OCOIP 2023)*](http://www.ocoip.com/) in Sanya, China.
 
 - 08/02/2023
 
