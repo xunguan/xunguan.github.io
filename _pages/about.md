@@ -12,6 +12,10 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
 
 # News
 
+- 09/02/2023
+
+I will serve the technical program committee of [*IEEE Photonics Conference (IPC2023)*](https://ieee-ipc.org/) in Orlando, USA during Nov. 12-16, 2023; and [*2023 International conference on Optical Communication and Optical Information Processing (OCOIP 2023)*](http://www.ocoip.com/) in Sanya, China.
+
 - 08/02/2023
 
 An invited talk titled 'Silicon Photonics for High-Speed 5G and Optical Networks' will be delivered at [*OFC2023*](https://www.ofcconference.org/), session Tu2B, on March 7, 2023, together with Leslie.
