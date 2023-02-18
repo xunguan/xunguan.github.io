@@ -19,7 +19,7 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
 - *"Accelerated Brillouin Frequency Shift Estimation Algorithm"* by Di of CUHK
 - *"Record High Throughput using Electronic 2×2 MIMO with OAM Multiplexing (SF1M.3)"* by Mai of ULaval
 
-Congratulations! CLEO is gonna be in-person only this year. We need to dispatch someone there =)
+Congratulations! CLEO is gonna be in-person only this year. We need to send someone there =)
 
 
 - 09/02/2023
