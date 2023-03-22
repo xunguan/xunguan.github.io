@@ -15,7 +15,7 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
 * 18/02/2023
 
 3 papers get in [*CLEO2023*](https://www.cleoconference.org/home/): 
-1. *"Super-Resolution Photoacoustic Angiopgraphy Assisted by Images Forged from Hand-Drawn Graffiti (JTu2A.51)"* by Yuanzheng
+1. *"Super-Resolution Photoacoustic Angiography Assisted by Images Forged from Hand-Drawn Graffiti (JTu2A.51)"* by Yuanzheng
 2. *"Accelerated Brillouin Frequency Shift Estimation Algorithm"* by Di of CUHK
 3. *"Record High Throughput using Electronic 2×2 MIMO with OAM Multiplexing (SF1M.3)"* by Mai of ULaval
 
