@@ -12,6 +12,11 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
 
 # News
 
+* 23/05/2023
+
+Yuanzheng will present in [第二届“生物医学光子学交叉融合”学术论坛(BPC2023)](https://www.opticsjournal.net/Meeting/BPC2023.cshtml)  on "基于嵌套迭代神经网络仅使用八张图像实现医学影像超分辨重建", June 8-10, in Shanghai.
+
+
 * 29/03/2023
 
 Yuanzheng and I will prensent in [第三届全国光子论坛](http://www.htcis.net/MeetingMain/Index/GZLT2023) (held from 3.31 to 4.3 in Guangzhou) on Super-resolution Photoacoustic Angiography, and Silicon Photonics for 6G and Beyond.
