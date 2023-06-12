@@ -12,6 +12,10 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
 
 # News
 
+* 12/06/2023
+
+Congratulations to Yuanzheng for winning Outstanding Student Report at BPC2023!
+
 * 23/05/2023
 
 Yuanzheng will present in [第二届“生物医学光子学交叉融合”学术论坛(BPC2023)](https://www.opticsjournal.net/Meeting/BPC2023.cshtml)  on "基于嵌套迭代神经网络仅使用八张图像实现医学影像超分辨重建", June 8-10, in Shanghai.
