@@ -14,12 +14,16 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
 
 * 09/07/2023
 
-Congratulations to Yuanzheng & teammates for winning ![First Prize of Best Poster Award](TBSI_retreat_2023.png)  in the competition at TBSI retreat!
+Congratulations to Yuanzheng & teammates on winning First Prize of Best Poster Award in the competition at TBSI retreat!
+
+<img src="TBSI_retreat_2023.png" width="200" height="320" />
 
 
 * 12/06/2023
 
-Congratulations to Yuanzheng for winning Outstanding Student Report at BPC2023!
+Congratulations to Yuanzheng on winning Outstanding Student Report at BPC2023!
+
+<img src="BPC2023.jpg" width="300" height="200" />
 
 * 23/05/2023
 
