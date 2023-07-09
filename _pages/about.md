@@ -16,14 +16,14 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
 
 Congratulations to Yuanzheng & teammates on winning First Prize of Best Poster Award in the competition at TBSI retreat!
 
-<img src="TBSI_retreat_2023.png" width="200" height="320" />
+<img src="../images/TBSI_retreat_2023.png" width="200" height="320" />
 
 
 * 12/06/2023
 
 Congratulations to Yuanzheng on winning Outstanding Student Report at BPC2023!
 
-<img src="BPC2023.jpg" width="300" height="200" />
+<img src="../images/BPC2023.jpg" width="300" height="200" />
 
 * 23/05/2023
 
@@ -81,7 +81,7 @@ A paper by Di, me and [Prof. Calvin Chan](https://lightweb.ie.cuhk.edu.hk/) enti
 
 - 13/09/2022
 
-We've got reinforcement by our new members, *马远征 (Yuanzheng Ma)* and *王欣悦 (Xinyue Wang)*. Welcome to **DILIGHT**!
+We've got reinforcement by our new members, *马远征 (Yuanzheng Ma)* and *王欣悦 (Xinyue Wang)*. Welcome to **LIT**!
 
 - 12/09/2022
 
