@@ -12,6 +12,11 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
 
 # News
 
+* 09/07/2023
+
+Congratulations to Yuanzheng & teammates for winning ![First Prize of Best Poster Award](TBSI_retreat_2023)  in the competition at TBSI retreat!
+
+
 * 12/06/2023
 
 Congratulations to Yuanzheng for winning Outstanding Student Report at BPC2023!
