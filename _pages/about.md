@@ -33,7 +33,7 @@ Yuanzheng will present in [第二届“生物医学光子学交叉融合”学�
 
 * 29/03/2023
 
-Yuanzheng and I will prensent in [第三届全国光子论坛](http://www.htcis.net/MeetingMain/Index/GZLT2023) (held from 3.31 to 4.3 in Guangzhou) on Super-resolution Photoacoustic Angiography, and Silicon Photonics for 6G and Beyond.
+Yuanzheng and I will present in [第三届全国光子论坛](http://www.htcis.net/MeetingMain/Index/GZLT2023) (held from 3.31 to 4.3 in Guangzhou) on Super-resolution Photoacoustic Angiography, and Silicon Photonics for 6G and Beyond.
 
 * 18/02/2023
 
