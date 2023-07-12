@@ -16,7 +16,8 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
 
 Congratulations to Yuanzheng & teammates on winning First Prize of Best Poster Award in the competition at TBSI retreat!
 
-<img src="../images/TBSI_retreat_2023.png" width="240" height="400" />
+<img src="../images/TBSI_retreat_2023.png" width="270" height="480" />
+<img src="../images/TBSI_retreat_2023_2.jpg" width="270" height="480" />
 
 
 * 12/06/2023
