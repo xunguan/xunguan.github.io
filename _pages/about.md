@@ -12,6 +12,10 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
 
 # News
 
+* 14/07/2023
+
+Yuanzheng's paper presented in BPC2023 is published in SPIE Proceedings.
+
 * 09/07/2023
 
 Congratulations to Yuanzheng & teammates on winning First Prize of Best Poster Award in the competition at TBSI retreat!
