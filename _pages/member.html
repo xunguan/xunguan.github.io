@@ -2,38 +2,57 @@
 <html>
 <head>
     <title>Research Lab Group Members</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-        }
-        .member-card {
-            border: 1px solid #ccc;
-            margin: 10px;
-            padding: 10px;
-            width: 200px;
-            display: inline-block;
-            vertical-align: top;
-        }
-        .member-card img {
-            width: 100%;
-        }
-        .member-card h3 {
-            margin: 0;
-        }
-    </style>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 </head>
 <body>
-    <h1>Research Lab Group Members</h1>
-    <div class="member-card">
-        <img src="john_doe.jpg" alt="John Doe">
-        <h3>John Doe</h3>
-        <p>Research Scientist</p>
+    <h1 class="text-center my-4">Research Lab Group Members</h1>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-lg-3 mb-4">
+                <a href="JiaojiaoWang.md" class="text-decoration-none text-dark">
+                    <div class="card">
+                        <img src="jiaojiao.jpg" alt="jiaojiao" class="card-img-top">
+                        <div class="card-body">
+                            <h5 class="card-title">Jiaojiao Wang</h5>
+                            <p class="card-text">Ph.D. candidate. Research direction: information theory, channel coding.</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-6 col-lg-3 mb-4">
+                <a href="jane_smith.md" class="text-decoration-none text-dark">
+                    <div class="card">
+                        <img src="yuanzheng.jpg" alt="yuanzheng" class="card-img-top">
+                        <div class="card-body">
+                            <h5 class="card-title">Yuanzheng Ma</h5>
+                            <p class="card-text">Ph.D. candidate. Research direction: deep learning, medical imaging processing.</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-6 col-lg-3 mb-4">
+                <a href="xinyue.md" class="text-decoration-none text-dark">
+                    <div class="card">
+                        <img src="xinyue.jpg" alt="xinyue" class="card-img-top">
+                        <div class="card-body">
+                            <h5 class="card-title">Xinyue Wang</h5>
+                            <p class="card-text">M.Sc. candidate. Research direction: imaging processing, deep learning.</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-6 col-lg-3 mb-4">
+                <a href="fourth_member.md" class="text-decoration-none text-dark">
+                    <div class="card">
+                        <img src="fourth_member.jpg" alt="Fourth Member" class="card-img-top">
+                        <div class="card-body">
+                            <h5 class="card-title">Fourth Member</h5>
+                            <p class="card-text">Undergraduate Researcher. Interested in robotics.</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
     </div>
-    <div class="member-card">
-        <img src="jane_smith.jpg" alt="Jane Smith">
-        <h3>Jane Smith</h3>
-        <p>Postdoctoral Researcher</p>
-    </div>
-    <!-- Add more member cards as needed -->
 </body>
 </html>
