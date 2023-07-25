@@ -25,7 +25,7 @@ Work experience
 # Brief Intro
 I am now an assistant professor at [Tsinghua-Berkeley Shenzhen Institute (TBSI)](https://www.tbsi.edu.cn/), [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/).
 
-I mainly work in **D**ata Communication and **I**ntelligence in **Light**wave (**DILIGHT**). I use photonic and electronic techniques to solve problems in telecommunication, sensing, information technology and others.
+I mainly work in **L**ightwave for **I**ntelligence and **T**elecommunication (**LIT**) I use photonic and electronic techniques to solve problems in telecommunication, sensing, information technology and others.
 
 Prior to that, I was a Research Scientist in [Optical Communications Laboratory](https://ocl.fsg.ulaval.ca/) at [Centre of Optics, Photonics and Laser (COPL)](https://www.copl.ulaval.ca/accueil/) in [Universit&eacute; Laval](https://www.ulaval.ca/), Quebec City, Canada, where I still hold adjunct professorship. I co-supervise a Ph.D student with [*Prof. Leslie Rusch*](https://ocl.fsg.ulaval.ca/team/leslie-rusch), who is IEEE Fellow, Optica Fellow, and Canadian research chair.
 
