@@ -4,7 +4,7 @@ layout: archive
 permalink: /members/
 author_profile: true
 redirect_from:
-  - /resume
+  - /members
 ---
 
 <style>
