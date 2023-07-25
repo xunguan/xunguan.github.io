@@ -12,6 +12,10 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
 
 # News
 
+* 25/07/2023
+
+Welcome to Shenzhen! I'll chair “可见光通信与光计算大会” to be hosted in August in University Town Shenzhen. Check out [this link](https://mp.weixin.qq.com/s/GQTxhWGcbbvBMAFBGhroPw) and stay tuned.
+
 * 14/07/2023
 
 Yuanzheng's paper presented in BPC2023 is published in SPIE Proceedings.
