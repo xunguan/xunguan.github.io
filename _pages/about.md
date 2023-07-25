@@ -10,13 +10,13 @@ redirect_from:
 
 <style>
     .news-item:nth-child(odd) {
-        background-color: #F0F0F0; /* Set the background color for odd items */
+        background-color: #CCDDD9; /* Set the background color for odd items */
         padding: 10px;
         margin-bottom: 20px;
     }
 
     .news-item:nth-child(even) {
-        background-color: #E6E6E6; /* Set the background color for even items */
+        background-color: #E3D1BD; /* Set the background color for even items */
         padding: 10px;
         margin-bottom: 20px;
     }
