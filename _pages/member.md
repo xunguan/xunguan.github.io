@@ -5,6 +5,7 @@ permalink: /members/
 author_profile: true
 redirect_from:
   - /members
+  - /member
 ---
 
 <style>
