@@ -21,7 +21,7 @@ main:
     url: /cv/
     
   - title: "Members"
-    url: /member/
+    url: /member.html/
 
-  - title: "openings"
+  - title: "Openings"
     url: /openings/
