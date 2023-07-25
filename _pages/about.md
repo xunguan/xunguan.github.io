@@ -8,17 +8,33 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+    .news-item:nth-child(odd) {
+        background-color: #F0F0F0; /* Set the background color for odd items */
+        padding: 10px;
+        margin-bottom: 20px;
+    }
+
+    .news-item:nth-child(even) {
+        background-color: #E6E6E6; /* Set the background color for even items */
+        padding: 10px;
+        margin-bottom: 20px;
+    }
+</style>
+
 This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
 
 # News
 
-* 25/07/2023
+<div class="news-item">
+    <p><strong>25/07/2023</strong></p>
+    <p>Welcome to Shenzhen! I'll chair “可见光通信与光计算大会” to be hosted in August in University Town Shenzhen. Check out <a href="https://mp.weixin.qq.com/s/GQTxhWGcbbvBMAFBGhroPw" target="_blank">this link</a> and stay tuned.</p>
+</div>
 
-Welcome to Shenzhen! I'll chair “可见光通信与光计算大会” to be hosted in August in University Town Shenzhen. Check out [this link](https://mp.weixin.qq.com/s/GQTxhWGcbbvBMAFBGhroPw) and stay tuned.
-
-* 14/07/2023
-
-Yuanzheng's paper presented in BPC2023 is published in SPIE Proceedings.
+<div class="news-item">
+    <p><strong>14/07/2023</strong></p>
+    <p>Yuanzheng's paper presented in BPC2023 is published in SPIE Proceedings.</p>
+</div>
 
 * 09/07/2023
 
