@@ -28,7 +28,7 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
 
 * 17/08/2023
 
-[Visible Light Communications and Optical Computing Conference (VLCOC)](https://mp.weixin.qq.com/s/QR51xIqd6Bd2-e3xfF3dRw) is approaching! I'll chair the two-day event from this Saturday. Cheers and see you in Shenzhen!
+[Visible Light Communications and Optical Computing Conference (VLCOC)](https://mp.weixin.qq.com/s/QR51xIqd6Bd2-e3xfF3dRw) is approaching! I'll serve as the TPC chair the two-day event from this Saturday. See you in Shenzhen!
 
 <div class="news-item">
     <p><strong>25/07/2023</strong></p>
