@@ -26,6 +26,10 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
 
 # News
 
+* 17/08/2023
+
+[Visible Light Communications and Optical Computing Conference (VLCOC)](https://mp.weixin.qq.com/s/QR51xIqd6Bd2-e3xfF3dRw) is approaching! I'll chair the two-day event from this Saturday. Cheers and see you in Shenzhen!
+
 <div class="news-item">
     <p><strong>25/07/2023</strong></p>
     <p>Welcome to Shenzhen! I'll chair “可见光通信与光计算大会” to be hosted in August in University Town Shenzhen. Check out <a href="https://mp.weixin.qq.com/s/GQTxhWGcbbvBMAFBGhroPw" target="_blank">this link</a> and stay tuned.</p>
