@@ -27,7 +27,7 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
 # News
 * 01/09/2023
 
-Our paper, "Peak-tracking BOTDA with dynamic ternary search," by D. Qi, X. Guan<sup>*</sup>, Y. Cheng and C. K. Chan, has been accepted to Optics Express.
+Our paper, "Peak-tracking BOTDA with dynamic ternary search," by D. Qi, X. Guan*, Y. Cheng and C. K. Chan, has been accepted to Optics Express.
 
 * 17/08/2023
 
