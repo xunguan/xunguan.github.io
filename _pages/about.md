@@ -25,6 +25,12 @@ redirect_from:
 This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
 
 # News
+
+* 07/09/2023
+
+An invited talk on 'Silicon Microring Modulator for 6G Optical Access Networks: On Polarization, Chirp and Dispersion' is given at [OGC 2023](http://www.ipsogc.org/).
+
+
 * 01/09/2023
 
 Our paper, "Peak-tracking BOTDA with dynamic ternary search," by D. Qi, X. Guan*, Y. Cheng and C. K. Chan, has been accepted to Optics Express.
