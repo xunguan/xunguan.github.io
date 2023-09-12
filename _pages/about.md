@@ -33,7 +33,7 @@ An invited talk on 'Silicon Microring Modulator for 6G Optical Access Networks: 
 
 * 01/09/2023
 
-Our paper, "Peak-tracking BOTDA with dynamic ternary search," by D. Qi, X. Guan*, Y. Cheng and C. K. Chan, has been accepted to Optics Express.
+Our paper, ["Peak-tracking BOTDA with dynamic ternary search,"](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-20-31946&id=537351) by D. Qi, X. Guan*, Y. Cheng and C. K. Chan, has been accepted to Optics Express.
 
 * 17/08/2023
 
