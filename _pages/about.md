@@ -26,9 +26,13 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
 
 # News
 
+* 13/09/2023
+
+Our submission to [ACP2023](http://www.acpconf.com/), 'Exploring the Neural Organoid in High Definition: Physics-Inspired High-Throughout Super-Resolution 3D Image Reconstruction', has been accepted. Congratulations to our collaborators, Davit Khutsishvili, Zitian Mi, Prof. Shaohua Ma, and Yuanzheng!
+
 * 07/09/2023
 
-An invited talk on 'Silicon Microring Modulator for 6G Optical Access Networks: On Polarization, Chirp and Dispersion' is given at [OGC 2023](http://www.ipsogc.org/).
+An invited talk on 'Silicon Microring Modulator for 6G Optical Access Networks: On Polarization, Chirp and Dispersion' is given at [OGC2023](http://www.ipsogc.org/).
 
 
 * 01/09/2023
