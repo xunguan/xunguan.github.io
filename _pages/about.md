@@ -25,9 +25,19 @@ redirect_from:
 This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
 
 # News
+
+* 13/09/2023
+
+Our submission to [ACP2023](http://www.acpconf.com/), 'Exploring the Neural Organoid in High Definition: Physics-Inspired High-Throughout Super-Resolution 3D Image Reconstruction', has been accepted. Congratulations to our collaborators, Davit Khutsishvili, Zitian Mi, Prof. Shaohua Ma, and Yuanzheng!
+
+* 07/09/2023
+
+An invited talk on 'Silicon Microring Modulator for 6G Optical Access Networks: On Polarization, Chirp and Dispersion' is given at [OGC2023](http://www.ipsogc.org/).
+
+
 * 01/09/2023
 
-Our paper, "Peak-tracking BOTDA with dynamic ternary search," by D. Qi, X. Guan*, Y. Cheng and C. K. Chan, has been accepted to Optics Express.
+Our paper, ["Peak-tracking BOTDA with dynamic ternary search,"](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-20-31946&id=537351) by D. Qi, X. Guan*, Y. Cheng and C. K. Chan, has been accepted to Optics Express.
 
 * 17/08/2023
 
