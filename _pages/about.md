@@ -28,6 +28,10 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
 
 * 13/09/2023
 
+I'll give an invited talk in [ACP2023](http://www.acpconf.com/) [workshop 6: Optical Wireless Communication for 6G](http://www.acpconf.com/detail/Workshop%206).
+
+* 13/09/2023
+
 Our submission to [ACP2023](http://www.acpconf.com/), 'Exploring the Neural Organoid in High Definition: Physics-Inspired High-Throughout Super-Resolution 3D Image Reconstruction', has been accepted. Congratulations to our collaborators, Davit Khutsishvili, Zitian Mi, Prof. Shaohua Ma, and Yuanzheng!
 
 * 07/09/2023
