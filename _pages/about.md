@@ -26,6 +26,10 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
 
 # News
 
+* 04/11/2023
+
+An invited talk was given today at [ACP/POEM2023](http://www.acpconf.com/) workshop 5 "Optical Wireless Communication for 6G". Now stay tuned for Davit's talk tomorrow. We are also finalist of Best Student Paper ^_^
+
 * 13/09/2023
 
 Our submission to [ACP2023](http://www.acpconf.com/), 'Exploring the Neural Organoid in High Definition: Physics-Inspired High-Throughout Super-Resolution 3D Image Reconstruction', has been accepted. Congratulations to our collaborators, Davit Khutsishvili, Zitian Mi, Prof. Shaohua Ma, and Yuanzheng!
