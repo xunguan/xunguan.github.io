@@ -30,7 +30,7 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
 
 We win best student paper at [ACP/POEM2023](http://www.acpconf.com/)!
 
-<img src="../images/ACP2023" width="270" height="480" />
+<img src="../images/ACP2023.jpg" width="270" height="480" />
 
 
 
