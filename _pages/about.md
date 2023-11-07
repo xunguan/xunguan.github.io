@@ -26,9 +26,17 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
 
 # News
 
+* 07/11/2023
+
+We win best student paper at [ACP/POEM2023](http://www.acpconf.com/)!
+
+<img src="../images/ACP2023" width="270" height="480" />
+
+
+
 * 04/11/2023
 
-An invited talk was given today at [ACP/POEM2023](http://www.acpconf.com/) workshop 5 "Optical Wireless Communication for 6G". Now stay tuned for Davit's talk tomorrow. We are also finalist of Best Student Paper ^_^
+An invited talk was given today at [ACP/POEM2023](http://www.acpconf.com/) workshop 5 "Optical Wireless Communication for 6G". Now stay tuned for Davit's talk tomorrow. We are also in the finalist of Best Student Paper ^_^
 
 * 13/09/2023
 
