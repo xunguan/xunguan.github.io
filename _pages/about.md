@@ -160,9 +160,9 @@ I am to deliver an invited talk in [*OGC 2022*](http://www.ipsogc.org/) in Shenz
 
 - 20/08/2022
 
-Our paper entitled '*Optimizing Geometric Constellations for Phase Noise Channels Using Deep Learning*' by Omir, me, Ming and Leslie has been accepted as an oral presentation in [*IEEE IPC*](https://ieee-ipc.org/), Nov. 2022 in Vancouver, Canada. 
+Our paper titled '*Optimizing Geometric Constellations for Phase Noise Channels Using Deep Learning*' by Omir, me, Ming and Leslie has been accepted as an oral presentation in [*IEEE IPC*](https://ieee-ipc.org/), Nov. 2022 in Vancouver, Canada. 
 
-Our paper entitled '*Equalizer Complexity in OAM Transmission Systems using a Standard PDM Coherent Receiver*' by Mai, Satyendra, Ariane, Nathalie, me, Lixian, Sophie and Leslie has been accepted as an oral presentation in [*IEEE IPC*](https://ieee-ipc.org/), Nov. 2022 in Vancouver, Canada. 
+Our paper titled '*Equalizer Complexity in OAM Transmission Systems using a Standard PDM Coherent Receiver*' by Mai, Satyendra, Ariane, Nathalie, me, Lixian, Sophie and Leslie has been accepted as an oral presentation in [*IEEE IPC*](https://ieee-ipc.org/), Nov. 2022 in Vancouver, Canada. 
 
 - 05/08/2022
 
