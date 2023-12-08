@@ -26,6 +26,10 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
 
 # News
 
+* 08/12/2023
+
+I'll give an invited talk at [O-West](https://b2b.csoe.org.cn/meeting/O_WEST2023.html) held by Chinese Society for Optical Engineering (中国光学工程学会) on Dec. 17 in Chengdu, Sichuan.
+
 * 07/11/2023
 
 We win best student paper at [ACP/POEM2023](http://www.acpconf.com/)!
