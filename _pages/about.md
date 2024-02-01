@@ -26,6 +26,10 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
 
 # News
 
+* 01/02/2024
+
+Our paper "Enhanced Performance for SSB-OFDM Transmission with a Low-Chirp Silicon MRM" has been accepted to IEEE/OSA Journal of Lightwave Technology. Congratulations to Zibo and all co-authors!
+
 * 08/12/2023
 
 I'll give an invited talk at [O-West](https://b2b.csoe.org.cn/meeting/O_WEST2023.html) held by Chinese Society for Optical Engineering (中国光学工程学会) on Dec. 17 in Chengdu, Sichuan. My talk is in track T5 - Optoelectronic integration and system applications. 
