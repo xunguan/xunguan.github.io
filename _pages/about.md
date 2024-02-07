@@ -28,7 +28,7 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
 
 * 01/02/2024
 
-Our paper "Enhanced Performance for SSB-OFDM Transmission with a Low-Chirp Silicon MRM" has been accepted to IEEE/Optica Journal of Lightwave Technology. Congratulations to Zibo and all co-authors!
+Our paper "[Enhanced Performance for SSB-OFDM Transmission with a Low-Chirp Silicon MRM]"(../files/ZiboJLT24.pdf) has been accepted to IEEE/Optica Journal of Lightwave Technology. Congratulations to Zibo and all co-authors!
 
 * 08/12/2023
 
