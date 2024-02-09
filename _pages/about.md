@@ -27,11 +27,11 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
 # News
 * 08/02/2024
 
-Thrilled to announce that our article *"DOVE: Doodled Vessel Enhancement for Photoacoustic Angiography Super Resolution"* has been accepted to *Elsevier Medical Image Analysis*. Great work by Yuanzheng and all collaborators! Kindly visit Yuanzheng's [GitHub repository](https://github.com/yuanzhengthu/handDrawnPAAImages) for the code and app for this work.
+Thrilled to announce that our article *"DOVE: Doodled Vessel Enhancement for Photoacoustic Angiography Super Resolution"* has been accepted to *Elsevier Medical Image Analysis*. Great work by Yuanzheng and all collaborators! Kindly visit [Yuanzheng's GitHub repository](https://github.com/yuanzhengthu/handDrawnPAAImages) for the code and app for this work.
 
 * 01/02/2024
 
-Our paper ["Enhanced Performance for SSB-OFDM Transmission with a Low-Chirp Silicon MRM"](../files/ZiboJLT24.pdf) has been accepted to IEEE/Optica Journal of Lightwave Technology. Congratulations to Zibo and all co-authors!
+Our paper [*"Enhanced Performance for SSB-OFDM Transmission with a Low-Chirp Silicon MRM"*](../files/ZiboJLT24.pdf) has been accepted to *IEEE/Optica Journal of Lightwave Technology*. Congratulations to Zibo and all co-authors!
 
 * 08/12/2023
 
