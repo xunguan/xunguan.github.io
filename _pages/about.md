@@ -25,6 +25,11 @@ redirect_from:
 This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
 
 # News
+
+* 17/02/2024
+
+Yuanzheng is going to [CLEO] (https://www.cleoconference.org/home/) again (yet not California anymore, It's in Charlotte this year!) this May to present his new finding "Enhancing Underwater Imaging for Robot through Embedded Polarization Neural Network"!
+
 * 08/02/2024
 
 Thrilled to announce that our article *"DOVE: Doodled Vessel Enhancement for Photoacoustic Angiography Super Resolution"* has been accepted to *Elsevier Medical Image Analysis*. Great work by Yuanzheng and all collaborators! Kindly visit [Yuanzheng's GitHub repository](https://github.com/yuanzhengthu/handDrawnPAAImages) for the code and app of this work.
