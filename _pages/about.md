@@ -28,7 +28,7 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
 
 * 17/02/2024
 
-Yuanzheng is going to [CLEO](https://www.cleoconference.org/home/) again (yet not California anymore, It's in Charlotte this year!) this May to present his new finding "Enhancing Underwater Imaging for Robot through Embedded Polarization Neural Network"!
+Yuanzheng is going to [CLEO](https://www.cleoconference.org/home/) again (yet not California anymore, It's in Charlotte this year!) this May to present his new finding of "Enhancing Underwater Imaging for Robot through Embedded Polarization Neural Network"!
 
 * 08/02/2024
 
