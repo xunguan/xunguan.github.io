@@ -17,14 +17,9 @@ redirect_from:
 
     .news-item {
         padding: 10px 0; /* 调整padding以适应上下横线 */
-        border-top: 3px solid #ddd; /* 上边框线 */
         border-bottom: 3px solid #ddd; /* 下边框线 */
-        margin-bottom: 10px; /* 条目之间的间距 */
+        margin-bottom: 5px; /* 条目之间的间距 */
         position: relative; /* 为日期定位 */
-    }
-
-    .news-item:first-child {
-        border-top: none; /* 移除第一个条目的上边框线 */
     }
 
     .news-title {
@@ -51,7 +46,6 @@ redirect_from:
 This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
 
 ## News
-
 <div class="news-section">
     <div class="news-item">
         <h4 class="news-title">Conference</h4>
