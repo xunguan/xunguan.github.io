@@ -57,7 +57,7 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
     <div class="news-item">
         <h4 class="news-title">Journal</h4>
         <span class="news-date">08/02/2024</span>
-        <p>Thrilled to announce that our article <em>"DOVE: Doodled Vessel Enhancement for Photoacoustic Angiography Super Resolution"</em> has been accepted to <em>Elsevier Medical Image Analysis</em>. Great work by Yuanzheng and all collaborators! Kindly visit <a href="https://github.com/yuanzhengthu/handDrawnPAAImages">Yuanzheng's GitHub repository</a> for the code and app of this work.</p>
+        <p>Thrilled to announce that our article <a href="https://www.sciencedirect.com/science/article/pii/S1361841524000318">"DOVE: Doodled Vessel Enhancement for Photoacoustic Angiography Super Resolution"</a> has been accepted to <em>Medical Image Analysis</em>. Great work by Yuanzheng and all collaborators! Kindly visit <a href="https://github.com/yuanzhengthu/handDrawnPAAImages"><em>Yuanzheng's GitHub repository</em></a> for the code and app of this work.</p>
     </div>
     <!-- 重复上述结构来添加更多新闻条目 -->
 </div>
@@ -66,7 +66,7 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
     <div class="news-item">
         <h4 class="news-title">Journal</h4>
         <span class="news-date">01/02/2024</span>
-        <p>Our paper <a href="https://ieeexplore.ieee.org/document/10420452"><em>"Enhanced Performance for SSB-OFDM Transmission with a Low-Chirp Silicon MRM"</em></a> has been accepted to *IEEE/Optica Journal of Lightwave Technology*. Congratulations to Zibo and all co-authors!</p>
+        <p>Our paper <a href="https://ieeexplore.ieee.org/document/10420452">"Enhanced Performance for SSB-OFDM Transmission with a Low-Chirp Silicon MRM"</a> has been accepted to *IEEE/Optica Journal of Lightwave Technology*. Congratulations to Zibo and all co-authors!</p>
     </div>
     <!-- 重复上述结构来添加更多新闻条目 -->
 </div>
