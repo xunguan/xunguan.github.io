@@ -9,16 +9,42 @@ redirect_from:
 ---
 
 <style>
-    .news-item:nth-child(odd) {
-        background-color: #CCDDD9; /* Set the background color for odd items */
-        padding: 10px;
-        margin-bottom: 20px;
+
+
+    .news-section {
+    margin: 20px 0;
     }
 
-    .news-item:nth-child(even) {
-        background-color: #E3D1BD; /* Set the background color for even items */
-        padding: 10px;
-        margin-bottom: 20px;
+    .news-item {
+        padding: 20px 0; /* 调整padding以适应上下横线 */
+        border-top: 3px solid #ddd; /* 上边框线 */
+        border-bottom: 3px solid #ddd; /* 下边框线 */
+        margin-bottom: 20px; /* 条目之间的间距 */
+        position: relative; /* 为日期定位 */
+    }
+
+    .news-item:first-child {
+        border-top: none; /* 移除第一个条目的上边框线 */
+    }
+
+    .news-title {
+        font-size: 0.9rem; /* 标题字体大小适中 */
+        font-weight: bold; /* 黑体 */
+        margin-bottom: 10px; /* 标题与内容的间距 */
+    }
+
+    .news-date {
+        position: absolute;
+        top: 0;
+        right: 0;
+        font-size: 0.8rem;
+        color: #666;
+    }
+
+    @media (max-width: 768px) {
+        .news-item {
+            padding: 10px 0;
+        }
     }
 </style>
 
@@ -26,41 +52,72 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
 
 # News
 
-* 17/02/2024
+<div class="news-section">
+    <div class="news-item">
+        <h4 class="news-title">Conference</h4>
+        <span class="news-date">17/02/2024</span>
+        <p>Yuanzheng is going to CLEO again (in Charlotte instead of California so mind your airticket destination!) this May to present his new finding of "Enhancing Underwater Imaging for Robot through Embedded Polarization Neural Network"!</p>
+    </div>
+    <!-- 重复上述结构来添加更多新闻条目 -->
+</div>
 
-Yuanzheng is going to [CLEO](https://www.cleoconference.org/home/) again (in Charlotte instead of California so mind your airticket destination!) this May to present his new finding of "Enhancing Underwater Imaging for Robot through Embedded Polarization Neural Network"!
+<div class="news-section">
+    <div class="news-item">
+        <h4 class="news-title">Journal</h4>
+        <span class="news-date">08/02/2024</span>
+        <p>Thrilled to announce that our article <em>"DOVE: Doodled Vessel Enhancement for Photoacoustic Angiography Super Resolution"</em> has been accepted to <em>Elsevier Medical Image Analysis</em>. Great work by Yuanzheng and all collaborators! Kindly visit <a href="https://github.com/yuanzhengthu/handDrawnPAAImages">Yuanzheng's GitHub repository</a> for the code and app of this work.</p>
+    </div>
+    <!-- 重复上述结构来添加更多新闻条目 -->
+</div>
 
-* 08/02/2024
-
-Thrilled to announce that our article *"DOVE: Doodled Vessel Enhancement for Photoacoustic Angiography Super Resolution"* has been accepted to *Elsevier Medical Image Analysis*. Great work by Yuanzheng and all collaborators! Kindly visit [Yuanzheng's GitHub repository](https://github.com/yuanzhengthu/handDrawnPAAImages) for the code and app of this work.
-
-* 01/02/2024
-
-Our paper [*"Enhanced Performance for SSB-OFDM Transmission with a Low-Chirp Silicon MRM"*](https://ieeexplore.ieee.org/document/10420452) has been accepted to *IEEE/Optica Journal of Lightwave Technology*. Congratulations to Zibo and all co-authors!
-
-* 08/12/2023
-
-I'll give an invited talk at [O-West](https://b2b.csoe.org.cn/meeting/O_WEST2023.html) held by Chinese Society for Optical Engineering (中国光学工程学会) on Dec. 17 in Chengdu, Sichuan. My talk is in track T5 - Optoelectronic integration and system applications. 
-
-* 07/11/2023
-
-We win best student paper at [ACP/POEM2023](http://www.acpconf.com/)!
-
-<img src="../images/ACP2023.jpg"/>
+<div class="news-section">
+    <div class="news-item">
+        <h4 class="news-title">Journal</h4>
+        <span class="news-date">01/02/2024</span>
+        <p>Our paper <a href="https://ieeexplore.ieee.org/document/10420452"><em>"Enhanced Performance for SSB-OFDM Transmission with a Low-Chirp Silicon MRM"</em></a> has been accepted to *IEEE/Optica Journal of Lightwave Technology*. Congratulations to Zibo and all co-authors!</p>
+    </div>
+    <!-- 重复上述结构来添加更多新闻条目 -->
+</div>
 
 
+<div class="news-section">
+    <div class="news-item">
+        <h4 class="news-title">08/12/2023</h4>
+        <span class="news-date">08/12/2023</span>
+        <p>I'll give an invited talk at <a href="https://b2b.csoe.org.cn/meeting/O_WEST2023.html">O-West</a> held by Chinese Society for Optical Engineering (中国光学工程学会) on Dec. 17 in Chengdu, Sichuan. My talk is in track T5 - Optoelectronic integration and system applications.</p>
+</div>
 
-* 04/11/2023
+<div class="news-section">
+    <div class="news-item">
+        <h4 class="news-title">07/11/2023</h4>
+        <span class="news-date">07/11/2023</span>
+        <p>We win best student paper at <a href="http://www.acpconf.com/">ACP/POEM2023</a>!</p>
+        <img src="../images/ACP2023.jpg" alt="ACP 2023 Award"/>
+</div>
 
-An invited talk was given today at [ACP/POEM2023](http://www.acpconf.com/) workshop 5 "Optical Wireless Communication for 6G". Now stay tuned for Davit's talk tomorrow. We are also in the finalist of Best Student Paper ^_^
+<div class="news-section">
+<div class="news-item">
+    <h4 class="news-title">04/11/2023</h4>
+    <span class="news-date">04/11/2023</span>
+    <p>An invited talk was given today at <a href="http://www.acpconf.com/">ACP/POEM2023</a> workshop 5 "Optical Wireless Communication for 6G". Now stay tuned for Davit's talk tomorrow. We are also in the finalist of Best Student Paper ^_^</p>
+</div>
 
-* 13/09/2023
+<div class="news-section">
+<div class="news-item">
+    <h4 class="news-title">13/09/2023</h4>
+    <span class="news-date">13/09/2023</span>
+    <p>I'll give an invited talk in <a href="http://www.acpconf.com/">ACP2023</a> <a href="http://www.acpconf.com/detail/Workshop%206">workshop 6: Optical Wireless Communication for 6G</a>.</p>
+</div>
 
-I'll give an invited talk in [ACP2023](http://www.acpconf.com/) [workshop 6: Optical Wireless Communication for 6G](http://www.acpconf.com/detail/Workshop%206).
+<div class="news-section">
+<div class="news-item">
+    <h4 class="news-title">13/09/2023</h4>
+    <span class="news-date">13/09/2023</span>
+    <p>Our submission to <a href="http://www.acpconf.com/">ACP2023</a>, 'Exploring the Neural Organoid in High Definition: Physics-Inspired High-Throughout Super-Resolution 3D Image Reconstruction', has been accepted. Congratulations to our collaborators, Davit Khutsishvili, Zitian Mi, Prof. Shaohua Ma, and Yuanzheng!</p>
+</div>
 
-* 13/09/2023
-
-Our submission to [ACP2023](http://www.acpconf.com/), 'Exploring the Neural Organoid in High Definition: Physics-Inspired High-Throughout Super-Resolution 3D Image Reconstruction', has been accepted. Congratulations to our collaborators, Davit Khutsishvili, Zitian Mi, Prof. Shaohua Ma, and Yuanzheng!
+<!-- 其他新闻条目以类似方式添加 -->
+</div>
 
 * 07/09/2023
 
