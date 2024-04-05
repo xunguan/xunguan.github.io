@@ -49,7 +49,7 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
 <div class="news-section">
     <div class="news-item">
         <h4 class="news-title">Conference</h4>
-        <span class="news-date">17/02/2024</span>
+        <span class="news-date">05/04/2024</span>
         <p>Yuanzheng will present his new result of underwater imaging in <a href="https://uaegsrc.ae/">UAEGSRC</a>, held in Al Ain in United Arab Emirates. The presetation date is April 20, 2024. He has also won a travel grant sponsored by the conference host! </p>
     </div>
 </div>   
