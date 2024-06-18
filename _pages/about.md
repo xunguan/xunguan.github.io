@@ -52,7 +52,7 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
         <h4 class="news-title">Conference</h4>
         <span class="news-date">15/06/2024</span>
         <p>I attended "第二届光通信与光电器件发展论坛" in Qingdao, a beatiful seashore city. A talk was given at the conference titled "单片集成微力传感器及其连续无创动脉压监测". The day ended up with 10 km run along seaside and a huuuuuuuuge glass of Tsingtao beer! </p>
-        <img src="../images/Tsingdao2.png"  width="100"  alt="Tsingdao Run" />
+        <img src="../images/Tsingdao2.png"  width="220"  alt="Tsingdao Run" />
     </div>
 </div>  
 
