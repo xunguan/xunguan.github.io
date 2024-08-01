@@ -49,6 +49,38 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
 
 <div class="news-section">
     <div class="news-item">
+        <h4 class="news-title">Journal</h4>
+        <span class="news-date">01/08/2024</span>
+        <p>Zecong's paper, "Magnet-Assisted GaN Monolithically Integrated Device for Optical Three-Axis Motion Sensing", has been accepted to ACS Photonics.</p>
+    </div>
+</div>  
+
+<div class="news-section">
+    <div class="news-item">
+        <h4 class="news-title">Conference</h4>
+        <span class="news-date">01/08/2024</span>
+        <p>We have a few conference contributions to annouce</a>: 
+        <ol>
+            <li>Jiaojiao Wang has a paper accepted for oral presentation at IEEE Information Theory Workshop 2024 (IEEE ITW 2024) held in Shenzhen, China. The title is "Rack-aware Minimum-Storage Regenerating Codes with Optimal Access for Consecutive Node Failures". </li>
+            <li>Jiazhen Song with Prof. Zhenyu Liu has one contribution to IEEE Globecom 2024 held in Cape Town, South Africa, titled "THz Optical Image Recognition Method via AM-Res2Net Model".</li>
+            <li>Weijie Dai with Prof. Yuhan Dong has two accepted papers to Optica Frontiers in Optics and Laser Science 2024 (FiO LS 2024)  held in Denver, Colorado, USA. The titles are "OAM Spectral Asymmetry Identification and Symbol-level Detection in Twisted Partially Coherent FSO Links" and "Concurrence Modulation and Direct Detection Free-space Optical Communication Systems under General Stokes Detection Noise".</li>
+        </ol>
+        Big congratulations to everyone!
+    </div>
+</div>  
+
+<div class="news-section">
+    <div class="news-item">
+        <h4 class="news-title">Award</h4>
+        <span class="news-date">08/07/2024</span>
+        <p>Our students in two groups wins second and third prizes in TBSI retreat poster conference competition. Big congratulations! </p>
+        <img src="../images/Retreat24_Yuanzheng.jpg"  width="220"  alt="TBSI-1" />
+        <img src="../images/Retreat24_Zecong.jpg"  width="220"  alt="TBSI-1" />
+    </div>
+</div>  
+
+<div class="news-section">
+    <div class="news-item">
         <h4 class="news-title">Conference</h4>
         <span class="news-date">15/06/2024</span>
         <p>I attended "第二届光通信与光电器件发展论坛" in Qingdao, a beatiful coastal city. A talk was given at the conference titled "单片集成微力传感器及其连续无创动脉压监测". The day ended up with 10 km seaside run and a huge glass of Tsingtao beer! </p>
