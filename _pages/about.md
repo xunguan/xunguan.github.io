@@ -59,7 +59,7 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
     <div class="news-item">
         <h4 class="news-title">Conference</h4>
         <span class="news-date">01/08/2024</span>
-        <p>We have a few conference contributions to annouce</a>: 
+        <p>We have a few conference contributions to annouce: 
         <ol>
             <li>Jiaojiao Wang has a paper accepted for oral presentation at IEEE Information Theory Workshop 2024 (IEEE ITW 2024) held in Shenzhen, China. The title is "Rack-aware Minimum-Storage Regenerating Codes with Optimal Access for Consecutive Node Failures". </li>
             <li>Jiazhen Song with Prof. Zhenyu Liu has one contribution to IEEE Globecom 2024 held in Cape Town, South Africa, titled "THz Optical Image Recognition Method via AM-Res2Net Model".</li>
