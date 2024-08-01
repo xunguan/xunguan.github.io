@@ -73,7 +73,7 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
     <div class="news-item">
         <h4 class="news-title">Award</h4>
         <span class="news-date">08/07/2024</span>
-        <p>Our students in two groups wins second and third prizes in TBSI retreat poster conference competition. Big congratulations! </p>
+        <p>Our students in two groups wins second and third prizes in TBSI retreat poster conference competition. Kudos to all! </p>
         <img src="../images/Retreat24_Yuanzheng.jpg"  width="220"  alt="TBSI-1" />
         <img src="../images/Retreat24_Zecong.jpg"  width="220"  alt="TBSI-1" />
     </div>
