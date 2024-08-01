@@ -67,7 +67,7 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
         </ol>
         Big congratulations to everyone!
     </div>
-</div>  
+</div>
 
 <div class="news-section">
     <div class="news-item">
