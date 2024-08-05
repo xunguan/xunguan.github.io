@@ -17,7 +17,7 @@ We also  have a few openings for Postdoc working with me and [Prof. Jian Song](h
 # PhD & MS 
 I'm recruiting highly motivated MS and PhD students starting in Sep. 2025; my major working area is **L**ightwave for **I**ntelligence and **T**elecommunication (**LIT**), including optical fiber communications, photonic integration circuits, optical wireless communications, fiber optic sensors, and advanced digital signal processing with machine learning, etc. Interested applicants are encouraged to apply for the positions or contact me directly; we also appreciate professors to circulate this post to possible candidates. 
 
-欢迎报考清华大学深圳国际研究生院/清华-伯克利深圳学院。计划招录2024年9月入学的优秀硕士、博士生；我的工作方向是数据通信与智能光电 **L**ightwave for **I**ntelligence and **T**elecommunication (**LIT**)，主要工作内容包括光通信、光电集成、光纤传感、机器学习支持的先进光电信号处理等。欢迎感兴趣的同学报名，也请各位老师推荐优秀的学生报名。请邮件联络我获取最新信息。
+欢迎报考清华大学深圳国际研究生院/清华-伯克利深圳学院。计划招录2025年9月入学的优秀硕士、博士生；我的工作方向是数据通信与智能光电 **L**ightwave for **I**ntelligence and **T**elecommunication (**LIT**)，主要工作内容包括光通信、光电集成、光纤传感、机器学习支持的先进光电信号处理等。欢迎感兴趣的同学报名，也请各位老师推荐优秀的学生报名。请邮件联络我获取最新信息。
 
 
 
