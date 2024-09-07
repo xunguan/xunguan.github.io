@@ -51,7 +51,7 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
     <div class="news-item">
         <h4 class="news-title">Journal</h4>
         <span class="news-date">07/09/2024</span>
-        <p>Two more accepted papers. <br> One at <strong>Nature Communications</strong> with <strong>Prof. Zhongjin Lin</strong> at Sun Yat-sen University, titled "120 GOPS/neuron Photonic Tensor Core in Thin-film Lithium Niobate for Inference and in-situ Training". <br> The other at <strong>IEEE Open Journal of the Communications Society</strong>, with <strong>Ms. Liyan Zheng</strong> and <strong>Prof. Yuhan Dong</strong> of Tsinghua SIGS, titled "Mutual Information Optimization with PAPR Reduction for MISO-OFDM UWOC through Probabilistic Shaping and Precoding". Kudos to all!</p>
+        <p>Two more accepted papers. <br> One at <strong>Nature Communications</strong> with <strong>Prof. Zhongjin Lin</strong> at Sun Yat-sen University, titled "120 GOPS/neuron Photonic Tensor Core in Thin-film Lithium Niobate for Inference and in-situ Training". <br> The other at <strong>IEEE Open Journal of the Communications Society</strong>, with <strong>Ms. Liyan Zheng</strong> and <strong>Prof. Yuhan Dong</strong> of Tsinghua SIGS, titled "Mutual Information Optimization with PAPR Reduction for MISO-OFDM UWOC through Probabilistic Shaping and Precoding". <br> Huge congratulations!</p>
     </div>
 </div>  
 
