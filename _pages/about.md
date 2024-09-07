@@ -59,7 +59,7 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
     <div class="news-item">
         <h4 class="news-title">Journal</h4>
         <span class="news-date">01/08/2024</span>
-        <p>Zecong's paper, "Magnet-Assisted GaN Monolithically Integrated Device for Optical Three-Axis Motion Sensing", has been accepted to ACS Photonics.</p>
+        <p><strong>Zecong</strong>'s paper, "Magnet-Assisted GaN Monolithically Integrated Device for Optical Three-Axis Motion Sensing", has been accepted to <strong>ACS Photonics</strong>.</p>
     </div>
 </div>  
 
@@ -70,9 +70,9 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
         <span class="news-date">01/08/2024</span>
         <p>We have a few conference contributions to annouce: 
         <ol>
-            <li>Jiaojiao Wang has a paper accepted for oral presentation at IEEE Information Theory Workshop 2024 (IEEE ITW 2024) to be held in Shenzhen, China. The title is "Rack-aware Minimum-Storage Regenerating Codes with Optimal Access for Consecutive Node Failures". </li>
-            <li>Jiazhen Song with Prof. Zhenyu Liu has one contribution to IEEE Globecom 2024 in Cape Town, South Africa, titled "THz Optical Image Recognition Method via AM-Res2Net Model".</li>
-            <li>Weijie Dai with Prof. Yuhan Dong has two accepted papers to Optica Frontiers in Optics and Laser Science 2024 (FiO LS 2024) to be held in Denver, Colorado, USA. The titles are "OAM Spectral Asymmetry Identification and Symbol-level Detection in Twisted Partially Coherent FSO Links" and "Concurrence Modulation and Direct Detection Free-space Optical Communication Systems under General Stokes Detection Noise".</li>
+            <li><strong>Jiaojiao Wang</strong> has a paper accepted for oral presentation at IEEE Information Theory Workshop 2024 (<strong>IEEE ITW 2024</strong>) to be held in Shenzhen, China. The title is "Rack-aware Minimum-Storage Regenerating Codes with Optimal Access for Consecutive Node Failures". </li>
+            <li><strong>Jiazhen Song</strong> with <strong>Prof. Zhenyu Liu</strong> has one contribution to <strong>IEEE Globecom 2024</strong> in Cape Town, South Africa, titled "THz Optical Image Recognition Method via AM-Res2Net Model".</li>
+            <li><strong>Weijie Dai</strong> with <strong>Prof. Yuhan Dong</strong> has two accepted papers to Optica Frontiers in Optics and Laser Science 2024 (<strong>FiO LS 2024</strong>) to be held in Denver, Colorado, USA. The titles are "OAM Spectral Asymmetry Identification and Symbol-level Detection in Twisted Partially Coherent FSO Links" and "Concurrence Modulation and Direct Detection Free-space Optical Communication Systems under General Stokes Detection Noise".</li>
         </ol>
         Big congratulations to everyone!
         </p>
