@@ -52,7 +52,7 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
     <div class="news-item">
         <h4 class="news-title">Conference</h4>
         <span class="news-date">17/09/2024</span>
-        <p>Our paper "Enhancing VLC Vehicle Networks in Channel Estimation, Coding, and Multiple Access" has been accepted for oral presentation at <strong>Globecom 2024 workshop on 6G Communications</strong>. Splendid work by Rui Chen and Jiaojiao Wang, and Xinjie Yuan from Prof. Shao-Lun Huang's group!</p>
+        <p>Our paper "Enhancing VLC Vehicle Networks in Channel Estimation, Coding, and Multiple Access" has been accepted for oral presentation at <strong>Globecom 2024 workshop on Emerging Topics in 6G Communications</strong>. Splendid work by Rui Chen and Jiaojiao Wang, and Xinjie Yuan from Prof. Shao-Lun Huang's group!</p>
     </div>
 </div>  
 
