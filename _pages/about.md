@@ -47,7 +47,6 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
 
 ## News
 
-
 <div class="news-section">
     <div class="news-item">
         <h4 class="news-title">Conference</h4>
