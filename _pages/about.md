@@ -51,19 +51,20 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
 <div class="news-section">
     <div class="news-item">
         <h4 class="news-title">Conference</h4>
-        <span class="news-date">17/09/2024</span>
-        <p>Our paper "Enhancing VLC Vehicle Networks in Channel Estimation, Coding, and Multiple Access" has been accepted for oral presentation at <strong>Globecom 2024 workshop on Emerging Topics in 6G Communications</strong>. Splendid work by Rui Chen and Jiaojiao Wang, and Xinjie Yuan from Prof. Shao-Lun Huang's group!</p>
+        <span class="news-date">08/10/2024</span>
+        <p><strong>Photonics West</strong>  has accepted Yuanzheng's oral presentation titled "LiGO: LLM-enhanced iterative graphic optimization for super-resolution underwater 3D reconstruction". The event is between 25 - 30 January 2025, at The Moscone Center, San Francisco, California, United States.
+</p>
     </div>
 </div>  
 
 <div class="news-section">
     <div class="news-item">
         <h4 class="news-title">Conference</h4>
-        <span class="news-date">08/10/2024</span>
-        <p><strong>Photonics West</strong>  has accepted Yuanzheng's oral presentation titled "LiGO: LLM-enhanced iterative graphic optimization for super-resolution underwater 3D reconstruction". The event is between 25 - 30 January 2025, at The Moscone Center, San Francisco, California, United States.
-</p>
+        <span class="news-date">17/09/2024</span>
+        <p>Our paper "Enhancing VLC Vehicle Networks in Channel Estimation, Coding, and Multiple Access" has been accepted for oral presentation at <strong>Globecom 2024 workshop on Emerging Topics in 6G Communications</strong>. Splendid work by Rui Chen and Jiaojiao Wang, and Xinjie Yuan from Prof. Shao-Lun Huang's group!</p>
     </div>
 </div>  
+
 
 <div class="news-section">
     <div class="news-item">
