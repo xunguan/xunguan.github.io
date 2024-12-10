@@ -50,6 +50,15 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
 <div class="news-section">
     <div class="news-item">
         <h4 class="news-title">Conference</h4>
+        <span class="news-date">10/12/2024</span>
+        <p>Mingzi's paper entitled "JAQ: Joint Efficient Architecture Design and Low-Bit Quantization with Hardware-Software Co-Exploration" has been accepted to <strong>AAAI</strong> held in Philadelphia, Pennsylvania, USA during February 25 – March 4. Big congratulations!
+</p>
+    </div>
+</div>  
+
+<div class="news-section">
+    <div class="news-item">
+        <h4 class="news-title">Conference</h4>
         <span class="news-date">08/10/2024</span>
         <p><strong>Photonics West</strong>  has accepted Yuanzheng's oral presentation titled "LiGO: LLM-enhanced iterative graphic optimization for super-resolution underwater 3D reconstruction". The event is between 25 - 30 January 2025, at The Moscone Center, San Francisco, California, United States.
 </p>
