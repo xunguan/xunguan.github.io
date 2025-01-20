@@ -49,6 +49,15 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
 
 <div class="news-section">
     <div class="news-item">
+        <h4 class="news-title">Journal</h4>
+        <span class="news-date">20/1/2025</span>
+        <p>Yansong's paper  entitled "<a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-33-2-1983&id=567005">Modeling, analysis, and optimization of random error in indirect time-of-flight camera </a>"  has appeared in <strong>Optics Express</strong>!
+</p>
+    </div>
+</div> 
+
+<div class="news-section">
+    <div class="news-item">
         <h4 class="news-title">Conference</h4>
         <span class="news-date">10/12/2024</span>
         <p>Mingzi's paper entitled "JAQ: Joint Efficient Architecture Design and Low-Bit Quantization with Hardware-Software Co-Exploration" has been accepted to <strong>AAAI</strong> held in Philadelphia, Pennsylvania, USA during February 25 – March 4. Big congratulations!
