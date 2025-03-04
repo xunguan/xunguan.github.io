@@ -23,7 +23,7 @@ Work experience
 * July 2022 - : Adjunct professor and co-supervisor of Ph.D students, Universit&eacute; Laval, Canada
 
 # Brief Intro
-I am now an assistant professor at [Tsinghua-Berkeley Shenzhen Institute (TBSI)](https://www.tbsi.edu.cn/), [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/).
+I am now an assistant professor at [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/).
 
 I mainly work in **L**ightwave for **I**ntelligence and **T**elecommunication (**LIT**) I use photonic and electronic techniques to solve problems in telecommunication, sensing, information technology and others.
 
