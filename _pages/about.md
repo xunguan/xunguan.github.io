@@ -57,7 +57,7 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
             <li>Zecong Liu, Yufeng Wang, Chonghao Zhang, Kwai Hei Li, and Xun Guan, "Monolithic Integrated GaN optoelectronics for Underwater Visible Light Communication and Sensing Systems".</li>
             <li>Yansong Du, Jingtong Yao, Feiyu Jiao, Bangyao Wang, Zhen Xu, Qiang Jin, Yuanzheng Ma, Zhaoxiang Jiang, and Xun Guan, "Random Phase Noise Optimization for iToF Cameras". </li>
         </ol>
-        All 3 papers are for oral presenations. Congratulations to Yufeng, Zecong, Yansong, and all collaborators!
+        All 3 papers are for oral presentations. Congratulations to Yufeng, Zecong, Yansong, and all collaborators!
         </p>
     </div>
 </div>  
