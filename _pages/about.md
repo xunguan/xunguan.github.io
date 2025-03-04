@@ -53,9 +53,9 @@ This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
         <span class="news-date">04/03/2025</span>
         <p>We are thrilled to anounce our 3 papers all first authored from our lab members appearing in <strong><a href="hhttps://cleoconference.org/">CLEO </a></strong> this year, including
         <ol>
-            <li>Yufeng Wang, Zecong Liu, Yuting Zhou, Xinke Tang, Xun Guan*, "Optoelectronic Joint Pre-Equalization Using parallel GaN-based Green LED Arrays for Underwater VLC". </li>
-            <li>Zecong Liu, Yufeng Wang, Chonghao Zhang, Kwai Hei Li, Xun Guan*, "Monolithic Integrated GaN optoelectronics for Underwater Visible Light Communication and Sensing Systems".</li>
-            <li>Yansong Du, Jingtong Yao, Feiyu Jiao, Bangyao Wang, Zhen Xu, Qiang Jin, Yuanzheng Ma, Zhaoxiang Jiang, Xun Guan*, "Random Phase Noise Optimization for iToF Cameras". </li>
+            <li>Yufeng Wang, Zecong Liu, Yuting Zhou, Xinke Tang, and Xun Guan, "Optoelectronic Joint Pre-Equalization Using parallel GaN-based Green LED Arrays for Underwater VLC". </li>
+            <li>Zecong Liu, Yufeng Wang, Chonghao Zhang, Kwai Hei Li, and Xun Guan, "Monolithic Integrated GaN optoelectronics for Underwater Visible Light Communication and Sensing Systems".</li>
+            <li>Yansong Du, Jingtong Yao, Feiyu Jiao, Bangyao Wang, Zhen Xu, Qiang Jin, Yuanzheng Ma, Zhaoxiang Jiang, and Xun Guan, "Random Phase Noise Optimization for iToF Cameras". </li>
         </ol>
         All 3 papers are for oral presenations. Congratulations to Yufeng, Zecong, Yansong, and all collaborators!
         </p>
