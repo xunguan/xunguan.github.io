@@ -43,7 +43,7 @@ redirect_from:
     }
 </style>
 
-This is my [school homepage](https://www.tbsi.edu.cn/gx/main.htm)
+This is my [school homepage](https://www.sigs.tsinghua.edu.cn/gx_en/main.psp) and Chinese version at [主页](https://www.sigs.tsinghua.edu.cn/gx/main.htm)
 
 ## News
 
