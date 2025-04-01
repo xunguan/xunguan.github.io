@@ -50,6 +50,41 @@ This is my [school homepage](https://www.sigs.tsinghua.edu.cn/gx_en/main.psp) an
 <div class="news-section">
     <div class="news-item">
         <h4 class="news-title">Conference</h4>
+        <span class="news-date">01/04/2025</span>
+        <p> Yansong's following submission to CLEO/Europe-EQEC has been accepted. Check it out in Berlin in June! <br>
+        Yansong Du, Jingtong Yao, Feiyu Jiao, Yuting Zhou, Qiang Jin, Bangyao Wang, Kang An, Zhaoxiang Jiang, Xun Guan, "A New Method for Removing Internal Scattering Noise in iToF Camera," in CLEO/Europe-EQEC, Berlin, Germany, June 2025.<br>
+        Congratulations to him!
+        </p>
+    </div>
+</div>  
+
+<div class="news-section">
+    <div class="news-item">
+        <h4 class="news-title">Journal</h4>
+        <span class="news-date">01/04/2025</span>
+        <p>Yuanzheng's paper has been accepted to Advanced Photonics Nexus. Stay tuned for the following if you are interested! <br> 
+        Yuanzheng Ma, Davit Khutsishvili, Zihan Zang, Wei Yue, Zhen Guo, Tao Feng, Zitian Wang, Shaohua Ma, and Xun Guan, "PLayer: A Plug-and-Play Embedded Neural System to Boost Neural Organoid 3D Reconstruction", Advanced Photonics Nexus, 2025.
+        </p>
+    </div>
+</div>  
+
+<div class="news-section">
+    <div class="news-item">
+        <h4 class="news-title">Conference</h4>
+        <span class="news-date">01/04/2025</span>
+        <p>Tao Feng has got two new acceptances from ICME, which are<br>
+        <ol>
+            <li>T. Feng, Z. Zhao, Y. Xie, Y. Ye, X. Luo, X. Guan, and Y. Li, "STFTCodec: High-Fidelity Audio Compression through Time-Frequency Domain Representation". </li>
+            <li>T. Feng, Y. Xie, X. Guan, J. Song, Z. Liu, F. Ma, and F. Yu, "UniSync: A Unified Framework for Audio-Visual Synchronization".</li>
+        </ol>
+        Congratulations to him!
+        </p>
+    </div>
+</div>  
+
+<div class="news-section">
+    <div class="news-item">
+        <h4 class="news-title">Conference</h4>
         <span class="news-date">04/03/2025</span>
         <p>We are thrilled to anounce 3 papers, all first authored by our lab members, are appearing in <strong><a href="https://cleoconference.org/">CLEO </a></strong> this year, including
         <ol>
