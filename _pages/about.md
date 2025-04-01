@@ -72,7 +72,7 @@ This is my [school homepage](https://www.sigs.tsinghua.edu.cn/gx_en/main.psp) an
     <div class="news-item">
         <h4 class="news-title">Conference</h4>
         <span class="news-date">01/04/2025</span>
-        <p>Tao Feng has got two new acceptances from ICME, which are<br>
+        <p>Tao Feng has got two new acceptances from ICME, held in Nantes, France, June-July, 2025. Here are the details:<br>
         <ol>
             <li>T. Feng, Z. Zhao, Y. Xie, Y. Ye, X. Luo, X. Guan, and Y. Li, "STFTCodec: High-Fidelity Audio Compression through Time-Frequency Domain Representation". </li>
             <li>T. Feng, Y. Xie, X. Guan, J. Song, Z. Liu, F. Ma, and F. Yu, "UniSync: A Unified Framework for Audio-Visual Synchronization".</li>
