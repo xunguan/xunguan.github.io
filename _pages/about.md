@@ -49,6 +49,17 @@ This is my [school homepage](https://www.sigs.tsinghua.edu.cn/gx_en/main.psp) an
 
 <div class="news-section">
     <div class="news-item">
+        <h4 class="news-title">Journal</h4>
+        <span class="news-date">07/04/2025</span>
+        <p> Our paper is appearing in <strong><a href="https://pubs.acs.org/journal/ascefj">ACS Sensors</a></strong>: <br>
+        Zecong Liu, Chao Xiang, Yeyu Tong, Kwai Hei Li, and Xun Guan, "Transfer Learning Enhanced Blood Pressure Monitoring Based on Flexible Optical Pulse Sensing Patch", ACS Sensors, 2025. <br>
+        Big Con!
+        </p>
+    </div>
+</div> 
+
+<div class="news-section">
+    <div class="news-item">
         <h4 class="news-title">Conference</h4>
         <span class="news-date">01/04/2025</span>
         <p> Yansong's following submission to CLEO/Europe-EQEC has been accepted. Check it out in Berlin in June! <br>
