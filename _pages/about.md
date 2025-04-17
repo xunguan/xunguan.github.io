@@ -63,7 +63,7 @@ This is my [school homepage](https://www.sigs.tsinghua.edu.cn/gx_en/main.psp) an
         <h4 class="news-title">Journal</h4>
         <span class="news-date">07/04/2025</span>
         <p> Our paper is appearing in <strong><a href="https://pubs.acs.org/journal/ascefj">ACS Sensors</a></strong>: <br>
-        Zecong Liu, Chao Xiang, Yeyu Tong, Kwai Hei Li, and Xun Guan, "Transfer Learning Enhanced Blood Pressure Monitoring Based on Flexible Optical Pulse Sensing Patch", ACS Sensors, 2025. <br>
+        Zecong Liu, Chao Xiang, Yeyu Tong, Kwai Hei Li, and Xun Guan, <a href= "https://pubs.acs.org/doi/10.1021/acssensors.4c03404">"Transfer Learning Enhanced Blood Pressure Monitoring Based on Flexible Optical Pulse Sensing Patch"</a>, ACS Sensors, 2025. <br>
         Congratulations to all!
         </p>
     </div>
