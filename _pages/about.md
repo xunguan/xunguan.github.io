@@ -51,7 +51,7 @@ This is my [school homepage](https://www.sigs.tsinghua.edu.cn/gx_en/main.psp) an
     <div class="news-item">
         <h4 class="news-title">Journal</h4>
         <span class="news-date">25/05/2025</span>
-        <p>Yuanzheng's paper has been accepted to Pattern Recognition. Please check it at <br> 
+        <p>Yuanzheng's paper has been accepted to <strong><a href="https://www.sciencedirect.com/journal/pattern-recognition">Pattern Recognition</a><strong>. Please check it at <br> 
         Yuanzheng Ma, Fan Xia, Liwei Lin, and Xun Guan, "<strong><a href="https://www.sciencedirect.com/science/article/pii/S003132032500442X">LEGO: LLM-enhanced genetic optimization for underwater robot image restoration</a></strong>", Pattern Recognition, 2025.
         </p>
     </div>
@@ -73,7 +73,7 @@ This is my [school homepage](https://www.sigs.tsinghua.edu.cn/gx_en/main.psp) an
         <h4 class="news-title">Journal</h4>
         <span class="news-date">07/04/2025</span>
         <p> Our paper is appearing in <strong><a href="https://pubs.acs.org/journal/ascefj">ACS Sensors</a></strong>: <br>
-        Zecong Liu, Chao Xiang, Yeyu Tong, Kwai Hei Li, and Xun Guan, <a href= "https://pubs.acs.org/doi/10.1021/acssensors.4c03404">"Transfer Learning Enhanced Blood Pressure Monitoring Based on Flexible Optical Pulse Sensing Patch"</a>, ACS Sensors, 2025. <br>
+        Zecong Liu, Chao Xiang, Yeyu Tong, Kwai Hei Li, and Xun Guan, <strong><a href= "https://pubs.acs.org/doi/10.1021/acssensors.4c03404">"Transfer Learning Enhanced Blood Pressure Monitoring Based on Flexible Optical Pulse Sensing Patch"</a><strong>, ACS Sensors, 2025. <br>
         Congratulations to all!
         </p>
     </div>
@@ -95,7 +95,7 @@ This is my [school homepage](https://www.sigs.tsinghua.edu.cn/gx_en/main.psp) an
         <h4 class="news-title">Journal</h4>
         <span class="news-date">01/04/2025</span>
         <p>Yuanzheng's paper has been accepted to Advanced Photonics Nexus. Stay tuned for the following if you are interested! <br> 
-        Yuanzheng Ma, Davit Khutsishvili, Zihan Zang, Wei Yue, Zhen Guo, Tao Feng, Zitian Wang, Shaohua Ma, and Xun Guan, "PLayer: A Plug-and-Play Embedded Neural System to Boost Neural Organoid 3D Reconstruction", Advanced Photonics Nexus, 2025.
+        Yuanzheng Ma, Davit Khutsishvili, Zihan Zang, Wei Yue, Zhen Guo, Tao Feng, Zitian Wang, Shaohua Ma, and Xun Guan, "<strong><a href="https://www.spiedigitallibrary.org/journals/advanced-photonics-nexus/volume-4/issue-03/036007/PLayer--a-plug-and-play-embedded-neural-system-to/10.1117/1.APN.4.3.036007.full">PLayer: A Plug-and-Play Embedded Neural System to Boost Neural Organoid 3D Reconstruction</a><strong>", Advanced Photonics Nexus, 2025.
         </p>
     </div>
 </div>  
