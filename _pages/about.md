@@ -52,7 +52,7 @@ This is my [school homepage](https://www.sigs.tsinghua.edu.cn/gx_en/main.psp) an
         <h4 class="news-title">Journal</h4>
         <span class="news-date">25/05/2025</span>
         <p>Yuanzheng's paper has been accepted to Pattern Recognition. Please check it at <br> 
-        Yuanzheng Ma, Fan Xia, Liwei Lin, and Xun Guan, "<strong><a href="https://www.sciencedirect.com/science/article/pii/S003132032500442X">LEGO: LLM-enhanced genetic optimization for underwater robot image restoration</a></strong>", Advanced Photonics Nexus, 2025.
+        Yuanzheng Ma, Fan Xia, Liwei Lin, and Xun Guan, "<strong><a href="https://www.sciencedirect.com/science/article/pii/S003132032500442X">LEGO: LLM-enhanced genetic optimization for underwater robot image restoration</a></strong>", Pattern Recognition, 2025.
         </p>
     </div>
 </div> 
