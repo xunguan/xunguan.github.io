@@ -62,7 +62,7 @@ This is my [school homepage](https://www.sigs.tsinghua.edu.cn/gx_en/main.psp) an
         <h4 class="news-title">Journal</h4>
         <span class="news-date">14/04/2025</span>
         <p> Jiaojiao's paper has been accepted to  <strong><a href="https://pubs.acs.org/journal/ascefj">IEEE Transactions on Communications</a></strong>: <br>
-        Jiaojiao Wang, Dabin Zheng and Xun Guan, Rack-aware MSR Codes with Optimal Access for Multiple Sequentially Ordered Node Failures, IEEE Transactions on Communications, 2025 <br>
+        Jiaojiao Wang, Dabin Zheng and Xun Guan, "<strong><a href="https://ieeexplore.ieee.org/document/10975044">Rack-aware MSR Codes with Optimal Access for Multiple Sequentially Ordered Node Failures</a></strong>, IEEE Transactions on Communications, 2025 <br>
         Congratulations!
         </p>
     </div>
