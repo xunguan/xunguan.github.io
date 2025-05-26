@@ -49,6 +49,21 @@ This is my [school homepage](https://www.sigs.tsinghua.edu.cn/gx_en/main.psp) an
 
 <div class="news-section">
     <div class="news-item">
+        <h4 class="news-title">Conference</h4>
+        <span class="news-date">26/05/2025</span>
+        <p> We have three papers accepted to <strong><a href="https://www.oeccpsc2025.org/">OECC2025</a></strong> in Sapporo, Hokkaido, Japan: <br>
+        <ol>
+            <li>Yuxuan Liu#, Chonghao Zhang#, Yuhan Dong, and Xun Guan, "Multi-Parameter Sensing Using a Seven-Core Structure: A High-Sensitivity Method for Chemical and Temperature Detection". </li>
+            <li>Feiyu Jiao, Yansong Du, Yuting Zhou, Jingtong Yao, Qiang Jin, Bangyao Wang, Zhancong Xu, Juntian Qu, and Xun Guan, "Performance Analysis of NOMA in SiPM-based VLC Systems".</li>
+            <li>Yuting Zhou#, Yuxuan Liu#, Yansong Du, Feiyu Jiao, Jingtong Yao, Bangyao Wang, Simeng Li, Jian Song, and Xun Guan, "High-Sensitivity Refractive Index Sensor Based on SU-8 Polymer Micro-Ring Resonator". </li>
+        </ol>
+        This is Yuxuan's and Feiyu's first publication since joining. We congratulate everyone of the excellent works!
+        </p>
+    </div>
+</div>  
+
+<div class="news-section">
+    <div class="news-item">
         <h4 class="news-title">Journal</h4>
         <span class="news-date">25/05/2025</span>
         <p>Yuanzheng's paper has been accepted to <strong><a href="https://www.sciencedirect.com/journal/pattern-recognition">Pattern Recognition</a></strong>. Please check it at <br> 
@@ -95,7 +110,7 @@ This is my [school homepage](https://www.sigs.tsinghua.edu.cn/gx_en/main.psp) an
         <h4 class="news-title">Journal</h4>
         <span class="news-date">01/04/2025</span>
         <p>Yuanzheng's paper has been accepted to Advanced Photonics Nexus. Stay tuned for the following if you are interested! <br> 
-        Yuanzheng Ma, Davit Khutsishvili, Zihan Zang, Wei Yue, Zhen Guo, Tao Feng, Zitian Wang, Shaohua Ma, and Xun Guan, "<strong><a href="https://www.spiedigitallibrary.org/journals/advanced-photonics-nexus/volume-4/issue-03/036007/PLayer--a-plug-and-play-embedded-neural-system-to/10.1117/1.APN.4.3.036007.full">PLayer: A Plug-and-Play Embedded Neural System to Boost Neural Organoid 3D Reconstruction</a><strong>", Advanced Photonics Nexus, 2025.
+        Yuanzheng Ma, Davit Khutsishvili, Zihan Zang, Wei Yue, Zhen Guo, Tao Feng, Zitian Wang, Shaohua Ma, and Xun Guan, "<strong><a href="https://www.spiedigitallibrary.org/journals/advanced-photonics-nexus/volume-4/issue-03/036007/PLayer--a-plug-and-play-embedded-neural-system-to/10.1117/1.APN.4.3.036007.full">PLayer: A Plug-and-Play Embedded Neural System to Boost Neural Organoid 3D Reconstruction</a></strong>", Advanced Photonics Nexus, 2025.
         </p>
     </div>
 </div>  
