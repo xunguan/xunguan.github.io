@@ -47,6 +47,20 @@ This is my [school homepage](https://www.sigs.tsinghua.edu.cn/gx_en/main.psp) an
 
 ## News
 
+
+<div class="news-item">
+    <h4 class="news-title">Conference</h4>
+    <span class="news-date">26/05/2025</span>
+    <p> We have three papers accepted to <strong><a href="https://www.oeccpsc2025.org/">OECC2025</a></strong> in Sapporo, Hokkaido, Japan: <br>
+    <ol>
+        <li>Yuxuan Liu#, Chonghao Zhang#, Yuhan Dong, and Xun Guan, "Multi-Parameter Sensing Using a Seven-Core Structure: A High-Sensitivity Method for Chemical and Temperature Detection". </li>
+        <li>Feiyu Jiao, Yansong Du, Yuting Zhou, Jingtong Yao, Qiang Jin, Bangyao Wang, Zhancong Xu, Juntian Qu, and Xun Guan, "Performance Analysis of NOMA in SiPM-based VLC Systems".</li>
+        <li>Yuting Zhou#, Yuxuan Liu#, Yansong Du, Feiyu Jiao, Jingtong Yao, Bangyao Wang, Simeng Li, Jian Song, and Xun Guan, "High-Sensitivity Refractive Index Sensor Based on SU-8 Polymer Micro-Ring Resonator". </li>
+    </ol>
+    This is Yuxuan's and Feiyu's first publication since joining. We shall be sharing their works in the coming month in Japan.
+    </p>
+</div>
+
 <div class="news-section">
     <div class="news-item">
         <h4 class="news-title">Journal</h4>
