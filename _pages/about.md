@@ -57,7 +57,7 @@ This is my [school homepage](https://www.sigs.tsinghua.edu.cn/gx_en/main.psp) an
         <li>Feiyu Jiao, Yansong Du, Yuting Zhou, Jingtong Yao, Qiang Jin, Bangyao Wang, Zhancong Xu, Juntian Qu, and Xun Guan, "Performance Analysis of NOMA in SiPM-based VLC Systems".</li>
         <li>Yuting Zhou#, Yuxuan Liu#, Yansong Du, Feiyu Jiao, Jingtong Yao, Bangyao Wang, Simeng Li, Jian Song, and Xun Guan, "High-Sensitivity Refractive Index Sensor Based on SU-8 Polymer Micro-Ring Resonator". </li>
     </ol>
-    This is Yuxuan's and Feiyu's first publication since joining. We shall be sharing their works in the coming month in Japan.
+    This is Yuxuan's and Feiyu's first publication since joining our lab. We shall be sharing their works next month in Japan.
     </p>
 </div>
 
