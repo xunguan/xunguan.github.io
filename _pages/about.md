@@ -50,8 +50,8 @@ This is my [school homepage](https://www.sigs.tsinghua.edu.cn/gx_en/main.psp) an
 <div class="news-item">
     <h4 class="news-title">Award</h4>
     <span class="news-date">26/05/2025</span>
-    <p> We are so delighted that Yuanzheng has received <strong><a href="https://spie.org/membership/student-hub/scholarships/optics-and-photonics-education-scholarships/current-winners">2025 SPIE Scholarship</a></strong>  to recognize his outstanding academic performance! <br>
-    Check the <a href="../files/Yuanzheng_Ma_FINAL.pdf" target="_blank">Media Announcement</a> and the certificate below.
+    <p> We are so delighted that Yuanzheng has received <strong><a href="https://spie.org/membership/student-hub/scholarships/optics-and-photonics-education-scholarships/current-winners">2025 SPIE Scholarship</a></strong>  to recognize his academic performance! <br>
+    Check the <a href="../files/Yuanzheng_Ma_FINAL.pdf" target="_blank">Media Announcement</a>.<br>
      <img src="../images/SPIE_scholarship.jpg"  width="300"  alt="SPIE_scholarship" />
 </div>
 
