@@ -52,7 +52,8 @@ This is my [school homepage](https://www.sigs.tsinghua.edu.cn/gx_en/main.psp) an
     <span class="news-date">26/05/2025</span>
     <p> We are so delighted that Yuanzheng has received <strong><a href="https://spie.org/membership/student-hub/scholarships/optics-and-photonics-education-scholarships/current-winners">2025 SPIE Scholarship</a></strong>  to recognize his academic performance! <br>
     Check the <strong><a href="../files/Yuanzheng_Ma_FINAL.pdf" target="_blank">Media Announcement</a></strong>.<br>
-     <img src="../images/SPIE_Scholarship.jpg"  width="300"  alt="SPIE_scholarship" />
+     <img src="../images/SPIE_Scholarship.jpg"  width="400"  alt="SPIE_scholarship" />
+     </p>
 </div>
 
 
