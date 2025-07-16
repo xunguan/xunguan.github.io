@@ -48,6 +48,13 @@ This is my [school homepage](https://www.sigs.tsinghua.edu.cn/gx_en/main.psp) an
 ## News
 
 <div class="news-item">
+    <h4 class="news-title">Journal</h4>
+    <span class="news-date">16/07/2025</span>
+    <p> Yuting's paper "Inverse Designed SU8-on-Insulator Platform for Polymer Waveguide Photonics" has been accepted by IEEE Photonics Technology Letters.
+     </p>
+</div>
+
+<div class="news-item">
     <h4 class="news-title">Award</h4>
     <span class="news-date">29/05/2025</span>
     <p> We are so delighted that Yuanzheng has received <strong><a href="https://spie.org/membership/student-hub/scholarships/optics-and-photonics-education-scholarships/current-winners">2025 SPIE Scholarship</a></strong>  to recognize his academic performance! <br>
