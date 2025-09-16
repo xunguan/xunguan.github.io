@@ -48,6 +48,16 @@ This is my [school homepage](https://www.sigs.tsinghua.edu.cn/gx_en/main.psp) an
 ## News
 
 <div class="news-item">
+    <h4 class="news-title">Conference</h4>
+    <span class="news-date">16/09/2025</span>
+    <p> Our group has 7 papers accepted to <strong><a href="https://ieee-ipc.org/">IPC2025</a></strong> held in Singapore, November 9-13 this year.<br>
+    Two papers in <strong><a href="https://acpconf.com/">ACP2025</a></strong> in Suzhou during November 5-8.
+    One poster presentation in ACP2025 by Yuyu Wang, "Joint Illumination and Communication Design for Mobile Users in Indoor VLC System".
+    One invited talk by myself, "Operando Events Monitoring with Fiber Sensors in Lithium Metal Batteries".
+    </p>
+</div>
+
+<div class="news-item">
     <h4 class="news-title">Journal</h4>
     <span class="news-date">16/07/2025</span>
     <p> Yuting's paper "Inverse Designed SU8-on-Insulator Platform for Polymer Waveguide Photonics" has been accepted by IEEE Photonics Technology Letters.
