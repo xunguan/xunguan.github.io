@@ -51,8 +51,9 @@ This is my [school homepage](https://www.sigs.tsinghua.edu.cn/gx_en/main.psp) an
     <h4 class="news-title">Conference</h4>
     <span class="news-date">16/09/2025</span>
     <p> Our group has 7 papers accepted to <strong><a href="https://ieee-ipc.org/">IPC2025</a></strong> held in Singapore, November 9-13 this year.<br>
-    Two papers in <strong><a href="https://acpconf.com/">ACP2025</a></strong> in Suzhou during November 5-8.
-    One poster presentation in ACP2025 by Yuyu Wang, "Joint Illumination and Communication Design for Mobile Users in Indoor VLC System".
+    Three papers in <strong><a href="https://acpconf.com/">ACP2025</a></strong> in Suzhou during November 5-8.
+    One oral contribution by Yutong Deng, "Monocular Depth Estimation Assisted iToF-RGB Fusion for Improved Depth Resolution". <br>
+    One poster presentation by Yuyu Wang, "Joint Illumination and Communication Design for Mobile Users in Indoor VLC System". <br>
     One invited talk by myself, "Operando Events Monitoring with Fiber Sensors in Lithium Metal Batteries".
     </p>
 </div>
