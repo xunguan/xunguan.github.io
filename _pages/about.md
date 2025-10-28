@@ -48,6 +48,13 @@ This is my [school homepage](https://www.sigs.tsinghua.edu.cn/gx_en/main.psp) an
 ## News
 
 <div class="news-item">
+    <h4 class="news-title">Journal</h4>
+    <span class="news-date">28/10/2025</span>
+    <p> Yuting's paper "Compact Inverse Designed Ultra-Broadband and Low-Loss Waveguide Crossing for Photonic Integration" has been accepted by Optics Letters.
+     </p>
+</div>
+
+<div class="news-item">
     <h4 class="news-title">Conference</h4>
     <span class="news-date">16/09/2025</span>
     <p> Our group has 7 papers accepted to <strong><a href="https://ieee-ipc.org/">IPC2025</a></strong> held in Singapore, November 9-13 this year.<br>
