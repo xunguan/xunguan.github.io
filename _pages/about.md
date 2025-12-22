@@ -49,6 +49,14 @@ This is my [school homepage](https://www.sigs.tsinghua.edu.cn/gx_en/main.psp) an
 
 <div class="news-item">
     <h4 class="news-title">Journal</h4>
+    <span class="news-date">22/12/2025</span>
+    <p> Our paper, "Structured Liquid based Reconfigurable All-Liquid Optical Fibers", is appearing in <strong><a href="https://www.nature.com/ncomms/">Nature Communications</a></strong>. Congratulations to Yufeng and collaborators! <br> 
+    Our paper, "A Structure-Aware Compressed Sensing Framework for Robust Multipath Suppression in Indirect ToF Imaging", is accepted to <strong><a href="https://ieee-ims.org/publication/ieee-tim">IEEE Transactions on Instrumentation and Measurement</a></strong>. Congratulations to Yansong and collaborators!
+     </p>
+</div>
+
+<div class="news-item">
+    <h4 class="news-title">Journal</h4>
     <span class="news-date">28/10/2025</span>
     <p> Yuting's paper "Compact Inverse Designed Ultra-Broadband and Low-Loss Waveguide Crossing for Photonic Integration" has been accepted by Optics Letters.
      </p>
