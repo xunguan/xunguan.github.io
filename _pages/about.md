@@ -49,22 +49,29 @@ This is my [school homepage](https://www.sigs.tsinghua.edu.cn/gx_en/main.psp) an
 
 <div class="news-item">
     <h4 class="news-title">Journal</h4>
+    <span class="news-date">14/01/2025</span>
+    <p> <strong><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=68">IEEE Photonics Technology Letters</a></strong>: "Adaptive NOMA/OMA Switching and Resource Allocation Optimization for SiPM-Based VLC Systems", by Feiyu and collaborators.
+     </p>
+</div>
+
+<div class="news-item">
+    <h4 class="news-title">Journal</h4>
     <span class="news-date">22/12/2025</span>
-    <p> Our paper, "Structured Liquid based Reconfigurable All-Liquid Optical Fibers", is appearing in <strong><a href="https://www.nature.com/ncomms/">Nature Communications</a></strong>.
+    <p> <strong><a href="https://www.nature.com/ncomms/">Nature Communications</a></strong>: "Structured Liquid based Reconfigurable All-Liquid Optical Fibers", by Yufeng and collaborators.
      </p>
 </div>
 
 <div class="news-item">
     <h4 class="news-title">Journal</h4>
     <span class="news-date">20/12/2025</span>
-    <p> Our paper, "A Structure-Aware Compressed Sensing Framework for Robust Multipath Suppression in Indirect ToF Imaging", is accepted to <strong><a href="https://ieee-ims.org/publication/ieee-tim">IEEE Transactions on Instrumentation and Measurement</a></strong>.
+    <p> <strong><a href="https://ieee-ims.org/publication/ieee-tim">IEEE Transactions on Instrumentation and Measurement</a></strong>: "A Structure-Aware Compressed Sensing Framework for Robust Multipath Suppression in Indirect ToF Imaging", by Yansong and collaborators.
      </p>
 </div>
 
 <div class="news-item">
     <h4 class="news-title">Journal</h4>
     <span class="news-date">28/10/2025</span>
-    <p> Yuting's paper "Compact Inverse Designed Ultra-Broadband and Low-Loss Waveguide Crossing for Photonic Integration" has been accepted by Optics Letters.
+    <p><strong><a href="https://opg.optica.org/ol/home.cfm ">Optics Letters</a></strong>: "Compact Inverse Designed Ultra-Broadband and Low-Loss Waveguide Crossing for Photonic Integration", by Yuting and collaborators.
      </p>
 </div>
 
