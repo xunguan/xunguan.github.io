@@ -13,350 +13,357 @@ author_profile: true
     <title>Lab Members</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 
-    <!-- Custom CSS to resize images -->
     <style>
-        .card-img-top {
-            /* Set the maximum height of the image in percentage */
-            max-height: 30%;
-            /* Set the maximum width of the image in percentage */
-            max-width: 50%;
-            /* Ensure the image resizes proportionally */
-            width: auto;
-            /* Center the image within the card */
-            margin: 0 auto;
-            /* Add some padding to the image for better appearance */
+        .member-img-wrap {
+            width: 100%;
+            height: 220px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+            background: #f8f9fa;
             padding: 10px;
-            /* If you want to keep the aspect ratio, you can use object-fit */
-            object-fit: cover;
+        }
+        .member-img-wrap img {
+            max-height: 100%;
+            max-width: 100%;
+            object-fit: contain;
         }
     </style>
-
 </head>
 <body>
-    <div class="row">
-    </div>
     <div class="container">
         <div class="row">
-            <!-- First column -->
-            <div class="col-md-6">
-                <div class="row">
-                    <div class="col-12 mb-4">
-                        <a class="text-decoration-none text-dark">
-                            <div class="card">
-                                <img src="../images/wangjiaojiao.jpg" alt="jiaojiao" class="card-img-top">
-                                <div class="card-body">
-                                    <h5 class="card-title">Jiaojiao Wang</h5>
-                                    <p class="card-text">Ph.D. candidate. <br>
-                                        <b>Research direction</b>: Information theory, channel coding.<br>
-                                        <b>Education</b>: M.Sc., Hubei University <br>
-                                        <b>Email</b>: wjj22 at mails.tsinghua.edu.cn
-                                    </p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col-12 mb-4">
-                        <a class="text-decoration-none text-dark">
-                            <div class="card">
-                                <img src="../images/mayuanzheng.jpg" alt="yuanzheng" class="card-img-top">
-                                <div class="card-body">
-                                    <h5 class="card-title">Yuanzheng Ma</h5>
-                                    <p class="card-text">Ph.D. candidate. <br>
-                                        <b>Research direction</b>: 3D super resolution imaging, embedded neural networks. <br>
-                                        <b>Education</b>: B.E., Huazhong University of Science and Technology<br>
-                                        M.Sc., Huazhong University of Science and Technology <br>
-                                        M.Sc., South China Normal University <br>
-                                        <b>Email</b>: myz22 at mails.tsinghua.edu.cn
-                                    </p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
 
-                    <div class="col-12 mb-4">
-                        <a class="text-decoration-none text-dark">
-                            <div class="card">
-                                <img src="../images/wangxinyue.jpg" alt="xinyue" class="card-img-top">
-                                <div class="card-body">
-                                    <h5 class="card-title">Xinyue Wang</h5>
-                                    <p class="card-text">M.Sc. candidate. <br>
-                                        <b>Research direction</b>: Computational imaging. <br>
-                                        <b>Education</b>: B.E., Shanghai Jiaotong University<br>
-                                        <b>Email</b>: xinyue-w22 at mails.tsinghua.edu.cn   
-        
-                                    </p>
-                                </div>
-                            </div>
-                        </a>
+            <!-- Jiaojiao Wang -->
+            <div class="col-md-6 mb-4">
+                <div class="card h-100">
+                    <div class="member-img-wrap">
+                        <img src="../images/wangjiaojiao.jpg" alt="Jiaojiao Wang">
                     </div>
-
-                    <div class="col-12 mb-4">
-                        <a class="text-decoration-none text-dark">
-                            <div class="card">
-                                <img src="../images/fengtao.jpg" alt="taofeng" class="card-img-top" style="max-height: 50%; max-width: 50%;">
-                                <div class="card-body">
-                                    <h5 class="card-title">Tao Feng</h5>
-                                    <p class="card-text">M.Sc. candidate. <br>
-                                        <b>Research direction</b>: Image processing, deep learning. <br>
-                                    <b>Education</b>: B.Sc., Beijing Normal University<br>
-                                    <b>Email</b>: ft23 at mails.tsinghua.edu.cn  
-                                </p>
-                                </div>
-                            </div>
-                        </a>
+                    <div class="card-body">
+                        <h5 class="card-title">Jiaojiao Wang</h5>
+                        <p class="card-text">Ph.D. candidate.<br>
+                            <b>Research direction</b>: Information theory, channel coding.<br>
+                            <b>Education</b>: M.Sc., Hubei University<br>
+                            <b>Email</b>: wjj22 at mails.tsinghua.edu.cn
+                        </p>
                     </div>
-
-                    <div class="col-12 mb-4">
-                        <a class="text-decoration-none text-dark">
-                            <div class="card">
-                                <img src="../images/wangyuyu.jpg" alt="yuyu" class="card-img-top" style="max-height: 50%; max-width: 50%;">
-                                <div class="card-body">
-                                    <h5 class="card-title">Yuyu Wang</h5>
-                                    <p class="card-text">M.Sc. candidate. <br>
-                                        <b>Research direction</b>: Neural network and super-resolution inspired by physical model. <br>
-                                    <b>Education</b>: B.E., University of Electronics Science and Technology China<br> 
-                                    <b>Email</b>: wangyuyu23 at mails.tsinghua.edu.cn  
-                                </p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-
-                    <div class="col-12 mb-4">
-                        <a class="text-decoration-none text-dark">
-                            <div class="card">
-                                <img src="../images/mingzi.jpg" alt="mingzi" class="card-img-top" style="max-height: 50%; max-width: 50%;">
-                                <div class="card-body">
-                                    <h5 class="card-title">Mingzi Wang</h5>
-                                    <p class="card-text">M.Sc. candidate. <br>
-                                        <b>Research direction</b>: Embedded Neural Network. <br>
-                                    <b>Education</b>: B.E., University of Electronics Science and Technology China<br> 
-                                    <b>Email</b>: wmz22 at mails.tsinghua.edu.cn  
-                                </p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-
-                    <div class="col-12 mb-4">
-                        <a class="text-decoration-none text-dark">
-                            <div class="card">
-                                <img src="../images/Yuxuan.jpg" alt="yuxuan" class="card-img-top" style="max-height: 50%; max-width: 50%;">
-                                <div class="card-body">
-                                    <h5 class="card-title">Yuxuan Liu</h5>
-                                    <p class="card-text">Incoming M.Sc. candidate. <br>
-                                        <b>Research direction</b>: Optical wireless communication and optical interconnect. <br>
-                                    <b>Education</b>: B.E., Harbin Institute of Technology, Shenzhen<br> 
-                                    <b>Email</b>: TBD
-                                </p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-
-                    <div class="col-12 mb-4">
-                        <a class="text-decoration-none text-dark">
-                            <div class="card">
-                                <img src="../images/bangyao.jpg" alt="bangyao" class="card-img-top" style="max-height: 50%; max-width: 50%;">
-                                <div class="card-body">
-                                    <h5 class="card-title">Bangyao Wang</h5>
-                                    <p class="card-text">Incoming Ph.D. candidate. <br>
-                                        <b>Research direction</b>: TBD. <br>
-                                    <b>Education</b>: B.E., South China Normal University<br> 
-                                    <b>Email</b>: TBD  
-                                </p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-
-                    <div class="col-12 mb-4">
-                        <a class="text-decoration-none text-dark">
-                            <div class="card">
-                                <img src="../images/chenrui.jpg" alt="chenrui" class="card-img-top" style="max-height: 50%; max-width: 50%;">
-                                <div class="card-body">
-                                    <h5 class="card-title">Rui Chen</h5>
-                                    <p class="card-text">M.Sc. candidate (co-adviced with Prof. Jian Song). <br>
-                                        <b>Research direction</b>: TBD. <br>
-                                    <b>Education</b>: B.E., Harbin Institute of Technology, Shenzhen<br> 
-                                    <b>Email</b>: chenr23@mails.tsinghua.edu.cn 
-                                </p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-12 mb-4">
-                        <a class="text-decoration-none text-dark">
-                            <div class="card">
-                                <img src="../images/Simeng.jpg" alt="Simeng"\class="card-img-top" style="max-height: 50%; max-width: 50%;">
-                                <div class="card-body">
-                                    <h5 class="card-title">Simeng Li</h5>
-                                    <p class="card-text">M.Sc candidate <br>
-                                        <b>Research direction</b>: Optical fiber sensing <br>
-                                    <b>Education</b>: B.Sc., Harbin Institute of Technology <br>
-                                    <b>Email</b>: lism24 at mails.tsinghua.edu.cn  
-                                </p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-
-                    <div class="col-12 mb-4">
-                        <a class="text-decoration-none text-dark">
-                            <div class="card">
-                                <img src="../images/Yutong.jpg" alt="Yutong"\class="card-img-top" style="max-height: 50%; max-width: 50%;">
-                                <div class="card-body">
-                                    <h5 class="card-title">Yutong Deng</h5>
-                                    <p class="card-text">M.Sc candidate <br>
-                                        <b>Research direction</b>: Optical sensing <br>
-                                    <b>Education</b>: B.Sc., Harbin Institute of Technology <br>
-                                    <b>Email</b>: deng-yt24 at mails.tsinghua.edu.cn  
-                                </p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-            </div>  
-
-            <!-- Second column -->
-            <div class="col-md-6">
-                <div class="row">
-                    <div class="col-12 mb-4">
-                        <a class="text-decoration-none text-dark">
-                            <div class="card">
-                                <img src="../images/zhouyuting.jpg" alt="yuting" class="card-img-top" style="max-height: 50%; max-width: 50%;">
-                                <div class="card-body">
-                                    <h5 class="card-title">Yuting Zhou</h5>
-                                    <p class="card-text">Ph.D. candidate. <br>
-                                        <b>Research direction</b>: Silicon photonics, optical communication. <br>
-                                        <b>Education</b>: B.E., The North University of China<br>
-                                        M.Sc., Hunan University <br>
-                                        <b>Email</b>: zyt23 at mails.tsinghua.edu.cn  
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col-12 mb-4">
-                        <a class="text-decoration-none text-dark">
-                            <div class="card">
-                                <img src="../images/liuzecong.jpg" alt="zecong" class="card-img-top">
-                                <div class="card-body">
-                                    <h5 class="card-title">Zecong Liu</h5>
-                                    <p class="card-text">Ph.D. candidate. <br>
-                                        <b>Research direction</b>: Intelligent integration of communications and sensors, Inverse design. <br>
-                                        <b>Education</b>: B.E., Huazhong University of Science and Technology<br>
-                                        M.Sc., Southern University of Science and Technology <br>
-                                        <b>Email</b>: liuzc23 at mails.tsinghua.edu.cn
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-
-                    <div class="col-12 mb-4">
-                        <a class="text-decoration-none text-dark">
-                            <div class="card">
-                                <img src="../images/wangyufeng2.jpg" alt="yufeng" class="card-img-top" style="max-height: 50%; max-width: 50%;">
-                                <div class="card-body">
-                                    <h5 class="card-title">Yufeng Wang</h5>
-                                    <p class="card-text">Ph.D. candidate. <br>
-                                        <b>Research direction</b>: Optical wireless communication, radio-over-fiber. <br>
-                                        <b>Education</b>: B.E., South China University of Technology<br>
-                                        M.Sc., University of Chinese Academy of Sciences <br>
-                                        <b>Email</b>: wangyf23 at mails.tsinghua.edu.cn
-        
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-
-                    <div class="col-12 mb-4">
-                        <a class="text-decoration-none text-dark">
-                            <div class="card">
-                                <img src="../images/zhangchonghao.jpg" alt="chonghao" class="card-img-top" style="max-height: 50%; max-width: 50%;">
-                                <div class="card-body">
-                                    <h5 class="card-title">Chonghao Zhang</h5>
-                                    <p class="card-text">M.Sc. candidate. <br>
-                                        <b>Research direction</b>: Fiber sensing and applications. <br>
-                                    <b>Education</b>: B.E., Shanghai University<br>
-                                </p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-
-                    <div class="col-12 mb-4">
-                        <a class="text-decoration-none text-dark">
-                            <div class="card">
-                                <img src="../images/yaojingtong" alt="jingtong" class="card-img-top" style="max-height: 50%; max-width: 50%;">
-                                <div class="card-body">
-                                    <h5 class="card-title">Jingtong Yao</h5>
-                                    <p class="card-text">M.Sc. candidate. <br>
-                                        <b>Research direction</b>: IoT ; embedded artificial intelligence system. <br>
-                                    <b>Education</b>: B.E., Beijing University of Posts and Telecommunication<br> 
-                                    <b>Email</b>: yjt23 at mails.tsinghua.edu.cn  
-                                </p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-
-                    <div class="col-12 mb-4">
-                        <a class="text-decoration-none text-dark">
-                            <div class="card">
-                                <img src="../images/feiyu.jpg" alt="feiyu" class="card-img-top" style="max-height: 50%; max-width: 50%;">
-                                <div class="card-body">
-                                    <h5 class="card-title">Feiyu Jiao</h5>
-                                    <p class="card-text">Incoming Ph.D. candidate. <br>
-                                        <b>Research direction</b>: Optical wireless communication. <br>
-                                    <b>Education</b>: B.E. & M.Sc., South China University of Technology<br>
-                                    <b>Email</b>: TBD  
-                                </p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-
-                    <div class="col-12 mb-4">
-                        <a class="text-decoration-none text-dark">
-                            <div class="card">
-                                <img src="../images/yansong.jpg" alt="yansong" class="card-img-top" style="max-height: 50%; max-width: 50%;">
-                                <div class="card-body">
-                                    <h5 class="card-title">Yansong Du</h5>
-                                    <p class="card-text">Incoming Ph.D. candidate. <br>
-                                        <b>Research direction</b>: Computational imaging and low-level vision. <br>
-                                    <b>Education</b>: B.E., Changchun University of Science and Technology,<br>
-                                     M.Sc., National University of Singapore<br>
-                                    <b>Email</b>: TBD  
-                                </p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-
-                    <div class="col-12 mb-4">
-                        <a class="text-decoration-none text-dark">
-                            <div class="card">
-                                <img src="../images/Ashley.jpg" alt="Ashley" class="card-img-top" style="max-height: 50%; max-width: 50%;">
-                                <div class="card-body">
-                                    <h5 class="card-title">Ashley Yuan</h5>
-                                    <p class="card-text">Ph.D candidate. <br>
-                                        <b>Research direction</b>: TBD <br>
-                                    <b>Education</b>: B.A., Rutgers, The State University of New Jersey <br>
-                                    <b>Email</b>: yuanly25 at mails.tsinghua.edu.cn 
-                                </p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-
-                    
-
                 </div>
             </div>
+
+            <!-- Yuting Zhou -->
+            <div class="col-md-6 mb-4">
+                <div class="card h-100">
+                    <div class="member-img-wrap">
+                        <img src="../images/zhouyuting.jpg" alt="Yuting Zhou">
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">Yuting Zhou</h5>
+                        <p class="card-text">Ph.D. candidate.<br>
+                            <b>Research direction</b>: Silicon photonics, optical communication.<br>
+                            <b>Education</b>: B.E., The North University of China;<br>
+                            M.Sc., Hunan University<br>
+                            <b>Email</b>: zyt23 at mails.tsinghua.edu.cn
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Yuanzheng Ma -->
+            <div class="col-md-6 mb-4">
+                <div class="card h-100">
+                    <div class="member-img-wrap">
+                        <img src="../images/mayuanzheng.jpg" alt="Yuanzheng Ma">
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">Yuanzheng Ma</h5>
+                        <p class="card-text">Ph.D. candidate.<br>
+                            <b>Research direction</b>: 3D super resolution imaging, embedded neural networks.<br>
+                            <b>Education</b>: B.E., Huazhong University of Science and Technology;<br>
+                            M.Sc., Huazhong University of Science and Technology;<br>
+                            M.Sc., South China Normal University<br>
+                            <b>Email</b>: myz22 at mails.tsinghua.edu.cn
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Zecong Liu -->
+            <div class="col-md-6 mb-4">
+                <div class="card h-100">
+                    <div class="member-img-wrap">
+                        <img src="../images/liuzecong.jpg" alt="Zecong Liu">
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">Zecong Liu</h5>
+                        <p class="card-text">Ph.D. candidate.<br>
+                            <b>Research direction</b>: Intelligent integration of communications and sensors, Inverse design.<br>
+                            <b>Education</b>: B.E., Huazhong University of Science and Technology;<br>
+                            M.Sc., Southern University of Science and Technology<br>
+                            <b>Email</b>: liuzc23 at mails.tsinghua.edu.cn
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Xinyue Wang -->
+            <div class="col-md-6 mb-4">
+                <div class="card h-100">
+                    <div class="member-img-wrap">
+                        <img src="../images/wangxinyue.jpg" alt="Xinyue Wang">
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">Xinyue Wang</h5>
+                        <p class="card-text">M.Sc. candidate.<br>
+                            <b>Research direction</b>: Computational imaging.<br>
+                            <b>Education</b>: B.E., Shanghai Jiaotong University<br>
+                            <b>Email</b>: xinyue-w22 at mails.tsinghua.edu.cn
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Yufeng Wang -->
+            <div class="col-md-6 mb-4">
+                <div class="card h-100">
+                    <div class="member-img-wrap">
+                        <img src="../images/wangyufeng2.jpg" alt="Yufeng Wang">
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">Yufeng Wang</h5>
+                        <p class="card-text">Ph.D. candidate.<br>
+                            <b>Research direction</b>: Optical wireless communication, radio-over-fiber.<br>
+                            <b>Education</b>: B.E., South China University of Technology;<br>
+                            M.Sc., University of Chinese Academy of Sciences<br>
+                            <b>Email</b>: wangyf23 at mails.tsinghua.edu.cn
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Tao Feng -->
+            <div class="col-md-6 mb-4">
+                <div class="card h-100">
+                    <div class="member-img-wrap">
+                        <img src="../images/fengtao.jpg" alt="Tao Feng">
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">Tao Feng</h5>
+                        <p class="card-text">M.Sc. candidate.<br>
+                            <b>Research direction</b>: Image processing, deep learning.<br>
+                            <b>Education</b>: B.Sc., Beijing Normal University<br>
+                            <b>Email</b>: ft23 at mails.tsinghua.edu.cn
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Chonghao Zhang -->
+            <div class="col-md-6 mb-4">
+                <div class="card h-100">
+                    <div class="member-img-wrap">
+                        <img src="../images/zhangchonghao.jpg" alt="Chonghao Zhang">
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">Chonghao Zhang</h5>
+                        <p class="card-text">M.Sc. candidate.<br>
+                            <b>Research direction</b>: Fiber sensing and applications.<br>
+                            <b>Education</b>: B.E., Shanghai University
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Yuyu Wang -->
+            <div class="col-md-6 mb-4">
+                <div class="card h-100">
+                    <div class="member-img-wrap">
+                        <img src="../images/wangyuyu.jpg" alt="Yuyu Wang">
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">Yuyu Wang</h5>
+                        <p class="card-text">M.Sc. candidate.<br>
+                            <b>Research direction</b>: Neural network and super-resolution inspired by physical model.<br>
+                            <b>Education</b>: B.E., University of Electronics Science and Technology China<br>
+                            <b>Email</b>: wangyuyu23 at mails.tsinghua.edu.cn
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Jingtong Yao -->
+            <div class="col-md-6 mb-4">
+                <div class="card h-100">
+                    <div class="member-img-wrap">
+                        <img src="../images/yaojingtong" alt="Jingtong Yao">
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">Jingtong Yao</h5>
+                        <p class="card-text">M.Sc. candidate.<br>
+                            <b>Research direction</b>: IoT; embedded artificial intelligence system.<br>
+                            <b>Education</b>: B.E., Beijing University of Posts and Telecommunication<br>
+                            <b>Email</b>: yjt23 at mails.tsinghua.edu.cn
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Mingzi Wang -->
+            <div class="col-md-6 mb-4">
+                <div class="card h-100">
+                    <div class="member-img-wrap">
+                        <img src="../images/mingzi.jpg" alt="Mingzi Wang">
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">Mingzi Wang</h5>
+                        <p class="card-text">M.Sc. candidate.<br>
+                            <b>Research direction</b>: Embedded Neural Network.<br>
+                            <b>Education</b>: B.E., University of Electronics Science and Technology China<br>
+                            <b>Email</b>: wmz22 at mails.tsinghua.edu.cn
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Feiyu Jiao -->
+            <div class="col-md-6 mb-4">
+                <div class="card h-100">
+                    <div class="member-img-wrap">
+                        <img src="../images/feiyu.jpg" alt="Feiyu Jiao">
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">Feiyu Jiao</h5>
+                        <p class="card-text">Incoming Ph.D. candidate.<br>
+                            <b>Research direction</b>: Optical wireless communication.<br>
+                            <b>Education</b>: B.E. &amp; M.Sc., South China University of Technology<br>
+                            <b>Email</b>: TBD
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Yuxuan Liu -->
+            <div class="col-md-6 mb-4">
+                <div class="card h-100">
+                    <div class="member-img-wrap">
+                        <img src="../images/Yuxuan.jpg" alt="Yuxuan Liu">
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">Yuxuan Liu</h5>
+                        <p class="card-text">Incoming M.Sc. candidate.<br>
+                            <b>Research direction</b>: Optical wireless communication and optical interconnect.<br>
+                            <b>Education</b>: B.E., Harbin Institute of Technology, Shenzhen<br>
+                            <b>Email</b>: TBD
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Yansong Du -->
+            <div class="col-md-6 mb-4">
+                <div class="card h-100">
+                    <div class="member-img-wrap">
+                        <img src="../images/yansong.jpg" alt="Yansong Du">
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">Yansong Du</h5>
+                        <p class="card-text">Incoming Ph.D. candidate.<br>
+                            <b>Research direction</b>: Computational imaging and low-level vision.<br>
+                            <b>Education</b>: B.E., Changchun University of Science and Technology;<br>
+                            M.Sc., National University of Singapore<br>
+                            <b>Email</b>: TBD
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Bangyao Wang -->
+            <div class="col-md-6 mb-4">
+                <div class="card h-100">
+                    <div class="member-img-wrap">
+                        <img src="../images/bangyao.jpg" alt="Bangyao Wang">
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">Bangyao Wang</h5>
+                        <p class="card-text">Incoming Ph.D. candidate.<br>
+                            <b>Research direction</b>: TBD.<br>
+                            <b>Education</b>: B.E., South China Normal University<br>
+                            <b>Email</b>: TBD
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Ashley Yuan -->
+            <div class="col-md-6 mb-4">
+                <div class="card h-100">
+                    <div class="member-img-wrap">
+                        <img src="../images/Ashley.jpg" alt="Ashley Yuan">
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">Ashley Yuan</h5>
+                        <p class="card-text">Ph.D. candidate.<br>
+                            <b>Research direction</b>: TBD.<br>
+                            <b>Education</b>: B.A., Rutgers, The State University of New Jersey<br>
+                            <b>Email</b>: yuanly25 at mails.tsinghua.edu.cn
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Rui Chen -->
+            <div class="col-md-6 mb-4">
+                <div class="card h-100">
+                    <div class="member-img-wrap">
+                        <img src="../images/chenrui.jpg" alt="Rui Chen">
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">Rui Chen</h5>
+                        <p class="card-text">M.Sc. candidate (co-advised with Prof. Jian Song).<br>
+                            <b>Research direction</b>: TBD.<br>
+                            <b>Education</b>: B.E., Harbin Institute of Technology, Shenzhen<br>
+                            <b>Email</b>: chenr23 at mails.tsinghua.edu.cn
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Simeng Li -->
+            <div class="col-md-6 mb-4">
+                <div class="card h-100">
+                    <div class="member-img-wrap">
+                        <img src="../images/Simeng.jpg" alt="Simeng Li">
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">Simeng Li</h5>
+                        <p class="card-text">M.Sc. candidate.<br>
+                            <b>Research direction</b>: Optical fiber sensing.<br>
+                            <b>Education</b>: B.Sc., Harbin Institute of Technology<br>
+                            <b>Email</b>: lism24 at mails.tsinghua.edu.cn
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Yutong Deng -->
+            <div class="col-md-6 mb-4">
+                <div class="card h-100">
+                    <div class="member-img-wrap">
+                        <img src="../images/Yutong.jpg" alt="Yutong Deng">
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">Yutong Deng</h5>
+                        <p class="card-text">M.Sc. candidate.<br>
+                            <b>Research direction</b>: Optical sensing.<br>
+                            <b>Education</b>: B.Sc., Harbin Institute of Technology<br>
+                            <b>Email</b>: deng-yt24 at mails.tsinghua.edu.cn
+                        </p>
+                    </div>
+                </div>
+            </div>
+
         </div>
     </div>
-
-
 </body>
 </html>
