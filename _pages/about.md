@@ -48,6 +48,13 @@ This is my [school homepage](https://www.sigs.tsinghua.edu.cn/gx_en/main.psp) an
 ## News
 
 <div class="news-item">
+    <h4 class="news-title">Editorship</h4>
+    <span class="news-date">11/05/2026</span>
+    <p>I recently join <strong><a href="https://www.oejournal.org/oea">Opto-Electronic Advances</a></strong> as a young editor. 我近期成为Opto-Electronic Advances (OEA)青年编委。
+    </p>
+</div>
+
+<div class="news-item">
     <h4 class="news-title">Journal</h4>
     <span class="news-date">14/01/2025</span>
     <p> <strong><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=68">IEEE Photonics Technology Letters</a></strong>: "Adaptive NOMA/OMA Switching and Resource Allocation Optimization for SiPM-Based VLC Systems", by Feiyu and collaborators.
