@@ -66,6 +66,8 @@ This is my [school homepage](https://www.sigs.tsinghua.edu.cn/gx_en/main.psp) an
     <h4 class="news-title">Editorship</h4>
     <span class="news-date">11/05/2026</span>
     <p>I recently join <strong><a href="https://www.oejournal.org/oea">Opto-Electronic Advances</a></strong> as a young editor. 我近期成为Opto-Electronic Advances (OEA)青年编委。
+    <br>
+    <img src="../images/OEA_young_editor_certificate.jpg" width="600" alt="OEA young editor certificate" />
     </p>
 </div>
 
@@ -561,7 +563,6 @@ This is my [school homepage](https://www.sigs.tsinghua.edu.cn/gx_en/main.psp) an
     <span class="news-date">10/05/2022</span>
     <p>My paper titled <a href="https://ocl.fsg.ulaval.ca/fileadmin/user_upload/CLEO2022_Leslie.pdf">'Experimental Demonstration of a Constellation Shaped via Deep Learning and Robust to Residual-Phase-Noise'</a>, is presented at CLEO 2022 held in San Jose, California, USA.</p>
 </div>
-
 
 
 
