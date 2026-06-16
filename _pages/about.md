@@ -49,6 +49,15 @@ This is my [school homepage](https://www.sigs.tsinghua.edu.cn/gx_en/main.psp) an
 
 <div class="news-item">
     <h4 class="news-title">Conference</h4>
+    <span class="news-date">16/06/2026</span>
+    <p>Yufeng's paper has been accepted to <strong><a href="https://www.ecoc2026.org/">ECOC2026</a></strong>:<br>
+    Yufeng Wang, Xu Zhang, Zecong Liu, Rui Jiang, Zhixue He, Xinke Tang, and Xun Guan, "Characterization of a 10.9-km Hollow-Core Fiber with 920-um Resolution Using a 10-Submitted kHz-Linewidth Tunable Laser Source".<br>
+    Congratulations to Yufeng!
+    </p>
+</div>
+
+<div class="news-item">
+    <h4 class="news-title">Conference</h4>
     <span class="news-date">20/05/2026</span>
     <p>Our group has five papers accepted to <strong><a href="https://cleoconference.org/">CLEO2026</a></strong>:
     <ol>
@@ -563,7 +572,6 @@ This is my [school homepage](https://www.sigs.tsinghua.edu.cn/gx_en/main.psp) an
     <span class="news-date">10/05/2022</span>
     <p>My paper titled <a href="https://ocl.fsg.ulaval.ca/fileadmin/user_upload/CLEO2022_Leslie.pdf">'Experimental Demonstration of a Constellation Shaped via Deep Learning and Robust to Residual-Phase-Noise'</a>, is presented at CLEO 2022 held in San Jose, California, USA.</p>
 </div>
-
 
 
 
