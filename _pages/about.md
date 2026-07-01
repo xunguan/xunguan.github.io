@@ -48,6 +48,15 @@ This is my [school homepage](https://www.sigs.tsinghua.edu.cn/gx_en/main.psp) an
 ## News
 
 <div class="news-item">
+    <h4 class="news-title">Journal</h4>
+    <span class="news-date">01/07/2026</span>
+    <p>Yuxuan's paper has been accepted to <strong><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=50">Journal of Lightwave Technology</a></strong>:<br>
+    Yuxuan Liu, Yufeng Wang, Zecong Liu, Yansong Du, Ge Ding, Yang Hong, Member, Jian Song, and Xun Guan, "Modeling of Pre-equalized and Clipped DCO-OFDM Systems in UV OWC Using Multi-LED Transmitters".<br>
+    Congratulations to Yuxuan, Yufeng, and all collaborators!
+    </p>
+</div>
+
+<div class="news-item">
     <h4 class="news-title">Conference</h4>
     <span class="news-date">16/06/2026</span>
     <p>Yufeng's paper has been accepted to <strong><a href="https://www.ecoc2026.org/">ECOC2026</a></strong>:<br>
