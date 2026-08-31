@@ -49,6 +49,18 @@ This is my [school homepage](https://www.sigs.tsinghua.edu.cn/gx_en/main.psp) an
 
 <div class="news-item">
     <h4 class="news-title">Journal</h4>
+    <span class="news-date">31/08/2026</span>
+    <p>We are delighted to announce two new journal papers:<br>
+    <ol>
+        <li>Yuting Zhou, Hongliang Li*, Feiyu Jiao, Yansong Du, Jin-Tae Kim, Sang-Shin Lee, Duk-Yong Choi, Fei Ding*, Xuechao Yu*, and <strong>Xun Guan</strong>*, “<a href="https://doi.org/10.1002/advs.77099">Metasurface-enabled helical wavefront fingerprint metrology for quantitative retrieval of liquid optical constants</a>,” <strong>Advanced Science</strong>, 2026.</li>
+        <li>Shicui Xing#, Yuting Zhou#, Yansong Du, Feiyu Jiao, Zhipeng Fan, Simeng Li, Wenbing Kang, Xu Wang, Ning Lu, <strong>Xun Guan</strong>*, and Qianqian Wang*, “<a href="https://doi.org/10.1021/acsphotonics.6c01120">Solution Processing of Zirconium Oxide Metasurfaces for Tunable Structural Colors</a>,” <strong>ACS Photonics</strong>, 2026.</li>
+    </ol>
+    Congratulations to Yuting and all collaborators!
+    </p>
+</div>
+
+<div class="news-item">
+    <h4 class="news-title">Journal</h4>
     <span class="news-date">01/07/2026</span>
     <p>Yuxuan's paper has been accepted to <strong><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=50">Journal of Lightwave Technology</a></strong>:<br>
     Yuxuan Liu, Yufeng Wang, Zecong Liu, Yansong Du, Ge Ding, Yang Hong, Jian Song, and Xun Guan, "Modeling of Pre-equalized and Clipped DCO-OFDM Systems in UV OWC Using Multi-LED Transmitters".<br>
@@ -581,6 +593,4 @@ This is my [school homepage](https://www.sigs.tsinghua.edu.cn/gx_en/main.psp) an
     <span class="news-date">10/05/2022</span>
     <p>My paper titled <a href="https://ocl.fsg.ulaval.ca/fileadmin/user_upload/CLEO2022_Leslie.pdf">'Experimental Demonstration of a Constellation Shaped via Deep Learning and Robust to Residual-Phase-Noise'</a>, is presented at CLEO 2022 held in San Jose, California, USA.</p>
 </div>
-
-
 
